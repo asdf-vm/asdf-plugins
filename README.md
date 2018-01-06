@@ -49,7 +49,8 @@ This is the [asdf](https://github.com/asdf-vm/asdf) plugins repository. Below is
 | Swift     | [fcrespo82/asdf-swift](https://github.com/fcrespo82/asdf-swift)| [![Build Status](https://travis-ci.org/fcrespo82/asdf-swift.svg?branch=master)](https://travis-ci.org/fcrespo82/asdf-swift)
 | Terraform | [Banno/asdf-hashicorp](https://github.com/Banno/asdf-hashicorp) | [![Build Status](https://travis-ci.org/Banno/asdf-hashicorp.svg?branch=master)](https://travis-ci.org/Banno/asdf-hashicorp)
 | Vault     | [Banno/asdf-hashicorp](https://github.com/Banno/asdf-hashicorp) | [![Build Status](https://travis-ci.org/Banno/asdf-hashicorp.svg?branch=master)](https://travis-ci.org/Banno/asdf-hashicorp)
-
+| Dart     | [baysao/asdf-dart](https://github.com/baysao/asdf-dart) | [![Build Status](https://travis-ci.org/baysao/asdf-dart.svg?branch=master)](https://travis-ci.org/baysao/asdf-dart)
+| Elasticsearch     | [baysao/asdf-elasticsearch](https://github.com/baysao/asdf-elasticsearch) | [![Build Status](https://travis-ci.org/baysao/asdf-elasticsearch.svg?branch=master)](https://travis-ci.org/baysao/asdf-elasticsearch)
 Adding a new plugin
 -------------------
 
