@@ -14,7 +14,7 @@ place for people (and asdf itself) to look for plugins.
 
 ## Contributing a new Plugin
 
-* Be sure to read the [creating plugins guide](https://github.com/asdf-vm/asdf/blob/master/docs/creating-plugins.md)
+* Be sure to read the [creating plugins guide](https://github.com/asdf-vm/asdf/blob/master/docs/plugins-create.md)
 * Test the plugin locally and make sure you can execute the new tool successfully (your shell scripts should work at least on osx and ubuntu linux)
 * Create a travis build for your tool, the build should install and execute your tool with `--version` or similar to test it works.
 * Update the README.md file on this repo to add your new plugin. The list is alphabetically ordered.
