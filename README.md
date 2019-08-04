@@ -45,6 +45,7 @@ place for people (and asdf itself) to look for plugins.
 | Dart      | [PatOConnor43/asdf-dart](https://github.com/PatOConnor43/asdf-dart) | [![Build Status](https://travis-ci.org/PatOConnor43/asdf-dart.svg?branch=master)](https://travis-ci.org/PatOConnor43/asdf-dart)
 | Dep       | [paxosglobal/asdf-dep](https://github.com/paxosglobal/asdf-dep) | [![Build Status](https://travis-ci.com/paxosglobal/asdf-dep.svg?branch=master)](https://travis-ci.com/paxosglobal/asdf-dep)
 | Desk      | [endorama/asdf-desk](https://github.com/endorama/asdf-desk) | [![Build Status](https://travis-ci.org/endorama/asdf-desk.svg?branch=master)](https://travis-ci.org/endorama/asdf-desk)
+| dive | [looztra/asdf-dive](https://github.com/looztra/asdf-dive) | [![Build Status](https://travis-ci.org/looztra/asdf-dive.svg?branch=master)](https://travis-ci.org/looztra/asdf-dive)
 | docker-slim | [everpeace/asdf-docker-slim](https://github.com/everpeace/asdf-docker-slim.git) | [![Build Status](https://travis-ci.org/everpeace/asdf-docker-slim.svg?branch=master)](https://travis-ci.org/everpeace/asdf-docker-slim)
 | doctl     | [maristgeek/asdf-doctl](https://github.com/maristgeek/asdf-doctl) | [![Build Status](https://travis-ci.org/maristgeek/asdf-doctl.svg?branch=master)](https://travis-ci.org/maristgeek/asdf-doctl)
 | Dotty     | [vic/asdf-dotty](https://github.com/vic/asdf-dotty) | [![Build Status](https://travis-ci.org/vic/asdf-dotty.svg?branch=master)](https://travis-ci.org/vic/asdf-dotty)
