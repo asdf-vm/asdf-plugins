@@ -10,7 +10,7 @@ while read -r -a plugin; do
     fails=$((fails+1))
     echo "Plugin build check failed:  ${travis_web_url}"
   fi
-done < <(grep -o 'travis.*\.svg[^)]*' README.md | sed "s~https?://~~; s:/: :; s/\.svg//; s/\?branch=/ /")
+done < <(sed -n '/^## Plugin List (Test Passing)/,/^## Plugin List (Test Failing)/p' README.md | grep -o 'travis.*\.svg[^)]*' | sed "s~https?://~~; s:/: :; s/\.svg//; s/\?branch=/ /")
 
 echo
 echo "Plugins available: ${total}"
