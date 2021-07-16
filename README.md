@@ -14,7 +14,7 @@ asdf plugin add <name> <git_url>
 
 ## Existing Plugins
 
-Plugins listed here should be *stable* and actively *maintained*. If you have issues with a specific plugin please raise them on the plugin repository first. If a deprecated plugin is listed here, please let us know and create a PR to add the most used alternative.
+Plugins listed here should be _stable_ and actively _maintained_. If you have issues with a specific plugin please raise them on the plugin repository first. If a deprecated plugin is listed here, please let us know and create a PR to add the most used alternative.
 
 ## Creating a new Plugin
 
