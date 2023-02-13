@@ -4,6 +4,9 @@ on:
   push:
     branches:
       - master
+    paths:
+      - plugins/*
+      - README.md
 
 jobs:
   all_plugins:
