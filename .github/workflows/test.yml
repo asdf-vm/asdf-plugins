@@ -3,7 +3,7 @@ name: test
 on:
   pull_request:
     paths:
-      - "plugins/*"
+      - plugins/*
 
 jobs:
   changed_plugins:
