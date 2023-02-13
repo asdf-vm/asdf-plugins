@@ -3,26 +3,26 @@
 ## Contributing a new Plugin
 
 1. Clone this repo
-    ```bash
-    git clone https://github.com/asdf-vm/asdf-plugins
-    ```
+   ```bash
+   git clone https://github.com/asdf-vm/asdf-plugins
+   ```
 1. Install repo dependencies
-    ```bash
-    asdf install
-    ```
+   ```bash
+   asdf install
+   ```
 1. Add the plugin to the repository `README.md` _Plugin List_ table.
 1. Create a file with the shortname you wish to be used by asdf in `plugins/<name>`. The contents should be `repository = <your_repo>`. Eg:
-    ```bash
-    printf "repository = https://github.com/asdf-vm/asdf-nodejs.git\n" > plugins/nodejs
-    ```
-2. Test your code
-    ```bash
-    scripts/test_plugin.bash --file plugins/<name>
-    ```
+   ```bash
+   printf "repository = https://github.com/asdf-vm/asdf-nodejs.git\n" > plugins/nodejs
+   ```
+1. Test your code
+   ```bash
+   scripts/test_plugin.bash --file plugins/<name>
+   ```
 1. Format your code & this README:
-    ```bash
-    scripts/format.bash
-    ```
+   ```bash
+   scripts/format.bash
+   ```
 1. Create a PR following the instructions in the PR template.
 
 ## Fixing an existing plugin
