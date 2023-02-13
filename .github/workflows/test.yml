@@ -15,4 +15,4 @@ jobs:
           fetch-depth: 0
 
       - name: Check new plugin is registered correctly
-        run: bash test_plugin.sh --diff origin/master ${{ github.sha }}
+        run: bash scripts/test_plugin.sh --diff origin/master ${{ github.sha }}
