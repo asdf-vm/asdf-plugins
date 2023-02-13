@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-# See: ./test_plugin.bash --help
+# See: ./scripts/test_plugin.bash --help
 
 function fail() {
   echo "FAIL: $*" >&2
