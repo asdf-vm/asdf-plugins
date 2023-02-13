@@ -6,6 +6,6 @@ set -euo pipefail
 shfmt --language-dialect bash --indent 2 --write \
   scripts/*
 
-# format Markdown files in root directory.
+# format Markdown files.
 npx -y prettier --write \
-  *.md
+  **/*.md

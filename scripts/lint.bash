@@ -6,9 +6,9 @@ set -euo pipefail
 shfmt --language-dialect bash --indent 2 --diff \
   scripts/*
 
-# check format Markdown files in root directory.
+# check format Markdown files.
 npx -y prettier --check \
-  *.md
+  **/*.md
 
 # lint for errors in Shell scripts in scripts/ directory.
 shellcheck --shell bash --external-sources \
