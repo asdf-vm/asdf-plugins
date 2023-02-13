@@ -6,7 +6,7 @@ on:
       - "plugins/*"
 
 jobs:
-  test_changed_plugins:
+  changed_plugins:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout code
