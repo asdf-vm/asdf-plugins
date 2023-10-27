@@ -13,7 +13,7 @@ shfmt --language-dialect bash --indent 2 --write \
 printf "\n* %s\n\n" "Formatting markdown..."
 
 # format Markdown files.
-npx -y prettier --write \
+npx prettier --write \
   ./**/*.md
 
 printf "\n* %s\n" "Formatting complete!"
