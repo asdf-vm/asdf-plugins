@@ -506,6 +506,7 @@ The `asdf` core provides a [security policy](https://github.com/asdf-vm/asdf/sec
 | mlton                         | [asdf-community/asdf-mlton](https://github.com/asdf-community/asdf-mlton)                                         |
 | mockery                       | [cabify/asdf-mockery](https://github.com/cabify/asdf-mockery)                                                     |
 | mockolo                       | [MontakOleg/asdf-mockolo](https://github.com/MontakOleg/asdf-mockolo)                                             |
+| Monaco                        | [nsaputro/asdf-monaco](https://github.com/nsaputro/asdf-monaco)                                                   |
 | Monarch                       | [nyuyuyu/asdf-monarch](https://github.com/nyuyuyu/asdf-monarch)                                                   |
 | mongo-tools                   | [itspngu/asdf-mongo-tools](https://github.com/itspngu/asdf-mongo-tools)                                           |
 | MongoDB                       | [sylph01/asdf-mongodb](https://github.com/sylph01/asdf-mongodb)                                                   |
