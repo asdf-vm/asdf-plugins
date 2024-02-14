@@ -188,6 +188,7 @@ The `asdf` core provides a [security policy](https://github.com/asdf-vm/asdf/sec
 | cyclonedx                     | [xeedio/asdf-cyclonedx](https://github.com/xeedio/asdf-cyclonedx)                                                 |
 | D (DMD)                       | [sylph01/asdf-dmd](https://github.com/sylph01/asdf-dmd)                                                           |
 | dagger                        | [virtualstaticvoid/asdf-dagger](https://github.com/virtualstaticvoid/asdf-dagger)                                 |
+| dapr                          | [asdf-community/asdf-dapr-cli](https://github.com/asdf-community/asdf-dapr-cli)                                   |
 | Dart                          | [PatOConnor43/asdf-dart](https://github.com/PatOConnor43/asdf-dart)                                               |
 | Dasel                         | [asdf-community/asdf-dasel](https://github.com/asdf-community/asdf-dasel)                                         |
 | datree                        | [lukeab/asdf-datree](https://github.com/lukeab/asdf-datree)                                                       |
@@ -403,6 +404,7 @@ The `asdf` core provides a [security policy](https://github.com/asdf-vm/asdf/sec
 | Kotlin                        | [asdf-community/asdf-kotlin](https://github.com/asdf-community/asdf-kotlin)                                       |
 | Kpt                           | [nlamirault/asdf-kpt](https://github.com/nlamirault/asdf-kpt)                                                     |
 | kp                            | [vmware-tanzu/tanzu-plug-in-for-asdf](https://github.com/vmware-tanzu/tanzu-plug-in-for-asdf)                     |
+| kpack                         | [asdf-community/asdf-kpack-cli](https://github.com/asdf-community/asdf-kpack-cli)                                 |
 | kscript                       | [edgelevel/asdf-kscript](https://github.com/edgelevel/asdf-kscript)                                               |
 | krab                          | [ohkrab/asdf-krab](https://github.com/ohkrab/asdf-krab)                                                           |
 | krew                          | [bjw-s/asdf-krew](https://github.com/bjw-s/asdf-krew)                                                             |
