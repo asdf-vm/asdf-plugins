@@ -662,6 +662,7 @@ The `asdf` core provides a [security policy](https://github.com/asdf-vm/asdf/sec
 | Steel Bank Common Lisp (sbcl) | [smashedtoatoms/asdf-sbcl](https://github.com/smashedtoatoms/asdf-sbcl)                                           |
 | step                          | [log2/asdf-step](https://github.com/log2/asdf-step)                                                               |
 | Stern                         | [looztra/asdf-stern](https://github.com/looztra/asdf-stern)                                                       |
+| stratus-red-team              | [vthiery/asdf-stratus-red-team](https://github.com/vthiery/asdf-stratus-red-team)                                 |
 | stripe-cli                    | [offbyone/asdf-stripe](https://github.com/offbyone/asdf-stripe)                                                   |
 | stylua                        | [jc00ke/asdf-stylua](https://github.com/jc00ke/asdf-stylua)                                                       |
 | svu                           | [asdf-community/asdf-svu](https://github.com/asdf-community/asdf-svu)                                             |
