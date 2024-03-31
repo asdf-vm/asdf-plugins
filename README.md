@@ -48,7 +48,7 @@ The `asdf` core provides a [security policy](https://github.com/asdf-vm/asdf/sec
 | .Net                          | [hensou/asdf-dotnet](https://github.com/hensou/asdf-dotnet)                                                       |
 | .Net Core                     | [emersonsoares/asdf-dotnet-core](https://github.com/emersonsoares/asdf-dotnet-core)                               |
 | 1password-cli                 | [NeoHsu/asdf-1password-cli](https://github.com/NeoHsu/asdf-1password-cli)                                         |
-| act                           | [grimoh/asdf-act](https://github.com/grimoh/asdf-act)                                                             |
+| act                           | [gr1m0h/asdf-act](https://github.com/gr1m0h/asdf-act)                                                             |
 | action-validator              | [mpalmer/action-validator](https://github.com/mpalmer/action-validator)                                           |
 | actionlint                    | [crazy-matt/asdf-actionlint](https://github.com/crazy-matt/asdf-actionlint)                                       |
 | adr-tools                     | [td7x/asdf/adr-tools](https://gitlab.com/td7x/asdf/adr-tools)                                                     |
@@ -103,6 +103,7 @@ The `asdf` core provides a [security policy](https://github.com/asdf-vm/asdf/sec
 | Batect                        | [johnlayton/asdf-batect](https://github.com/johnlayton/asdf-batect)                                               |
 | Bats (Bash unittest)          | [timgluz/asdf-bats](https://github.com/timgluz/asdf-bats)                                                         |
 | Bazel                         | [rajatvig/asdf-bazel](https://github.com/rajatvig/asdf-bazel)                                                     |
+| bazelisk                      | [josephtate/asdf-bazelisk](https://github.com/josephtate/asdf-bazelisk)                                           |
 | bbr                           | [vmware-tanzu/tanzu-plug-in-for-asdf](https://github.com/vmware-tanzu/tanzu-plug-in-for-asdf)                     |
 | bbr-s3-config-validator       | [vmware-tanzu/tanzu-plug-in-for-asdf](https://github.com/vmware-tanzu/tanzu-plug-in-for-asdf)                     |
 | benthos                       | [benthosdev/benthos-asdf](https://github.com/benthosdev/benthos-asdf)                                             |
@@ -125,6 +126,7 @@ The `asdf` core provides a [security policy](https://github.com/asdf-vm/asdf/sec
 | Bundler                       | [jonathanmorley/asdf-bundler](https://github.com/jonathanmorley/asdf-bundler)                                     |
 | Cabal                         | [sestrella/asdf-ghcup](https://github.com/sestrella/asdf-ghcup)                                                   |
 | Caddy                         | [salasrod/asdf-caddy](https://github.com/salasrod/asdf-caddy)                                                     |
+| CalendarSync                  | [FeryET/asdf-calendarsync](https://github.com/FeryET/asdf-calendarsync)                                           |
 | Calicoctl                     | [FairwindsOps/asdf-calicoctl](https://github.com/FairwindsOps/asdf-calicoctl)                                     |
 | Camunda Modeler               | [barmac/asdf-camunda-modeler](https://github.com/barmac/asdf-camunda-modeler)                                     |
 | cargo-make                    | [kachick/asdf-cargo-make](https://github.com/kachick/asdf-cargo-make)                                             |
@@ -151,6 +153,7 @@ The `asdf` core provides a [security policy](https://github.com/asdf-vm/asdf/sec
 | cilium-hubble                 | [NitriKx/asdf-cilium-hubble](https://github.com/NitriKx/asdf-cilium-hubble)                                       |
 | Clarinet                      | [alexgo-io/asdf-clarinet](https://github.com/alexgo-io/asdf-clarinet)                                             |
 | clj-kondo                     | [rynkowsg/asdf-clj-kondo](https://github.com/rynkowsg/asdf-clj-kondo)                                             |
+| cljstyle                      | [abogoyavlensky/asdf-cljstyle](https://github.com/abogoyavlensky/asdf-cljstyle)                                   |
 | Clojure                       | [asdf-community/asdf-clojure](https://github.com/asdf-community/asdf-clojure)                                     |
 | Cloudflared                   | [threkk/asdf-cloudflared](https://github.com/threkk/asdf-cloudflared)                                             |
 | cloud-sql-proxy               | [pbr0ck3r/asdf-cloud-sql-proxy](https://github.com/pbr0ck3r/asdf-cloud-sql-proxy)                                 |
@@ -163,6 +166,7 @@ The `asdf` core provides a [security policy](https://github.com/asdf-vm/asdf/sec
 | Codefresh                     | [gurukulkarni/asdf-codefresh](https://github.com/gurukulkarni/asdf-codefresh)                                     |
 | CodeQL                        | [bored-engineer/asdf-codeql](https://github.com/bored-engineer/asdf-codeql)                                       |
 | Colima                        | [CrouchingMuppet/asdf-colima](https://github.com/CrouchingMuppet/asdf-colima)                                     |
+| coredns                       | [s3than/asdf-coredns](https://github.com/s3than/asdf-coredns)                                                     |
 | Conan                         | [amrox/asdf-pyapp](https://github.com/amrox/asdf-pyapp)                                                           |
 | Concourse                     | [mattysweeps/asdf-concourse](https://github.com/mattysweeps/asdf-concourse)                                       |
 | Conduit                       | [gmcabrita/asdf-conduit](https://github.com/gmcabrita/asdf-conduit)                                               |
@@ -188,9 +192,11 @@ The `asdf` core provides a [security policy](https://github.com/asdf-vm/asdf/sec
 | cyclonedx                     | [xeedio/asdf-cyclonedx](https://github.com/xeedio/asdf-cyclonedx)                                                 |
 | D (DMD)                       | [sylph01/asdf-dmd](https://github.com/sylph01/asdf-dmd)                                                           |
 | dagger                        | [virtualstaticvoid/asdf-dagger](https://github.com/virtualstaticvoid/asdf-dagger)                                 |
+| dapr                          | [asdf-community/asdf-dapr-cli](https://github.com/asdf-community/asdf-dapr-cli.git)                               |
 | Dart                          | [PatOConnor43/asdf-dart](https://github.com/PatOConnor43/asdf-dart)                                               |
 | Dasel                         | [asdf-community/asdf-dasel](https://github.com/asdf-community/asdf-dasel)                                         |
 | datree                        | [lukeab/asdf-datree](https://github.com/lukeab/asdf-datree)                                                       |
+| Daytona                       | [CrouchingMuppet/asdf-daytona](https://github.com/CrouchingMuppet/asdf-daytona)                                   |
 | Dbmate                        | [juusujanar/asdf-dbmate](https://github.com/juusujanar/asdf-dbmate)                                               |
 | Deck                          | [nutellinoit/asdf-deck](https://github.com/nutellinoit/asdf-deck)                                                 |
 | Delta                         | [andweeb/asdf-delta](https://github.com/andweeb/asdf-delta)                                                       |
@@ -340,6 +346,7 @@ The `asdf` core provides a [security policy](https://github.com/asdf-vm/asdf/sec
 | Helmsman                      | [luisdavim/asdf-helmsman](https://github.com/luisdavim/asdf-helmsman)                                             |
 | heroku-cli                    | [treilly94/asdf-heroku-cli](https://github.com/treilly94/asdf-heroku-cli)                                         |
 | hey                           | [raimon49/asdf-hey](https://github.com/raimon49/asdf-hey)                                                         |
+| hishtory                      | [asdf-community/asdf-hishtory](https://github.com/asdf-community/asdf-hishtory)                                   |
 | hledger                       | [airtonix/hledger](https://github.com/airtonix/asdf-hledger)                                                      |
 | hledger-flow                  | [airtonix/hledger-flow](https://github.com/airtonix/asdf-hledger-flow)                                            |
 | hostctl                       | [svenluijten/asdf-hostctl](https://github.com/svenluijten/asdf-hostctl)                                           |
@@ -381,8 +388,9 @@ The `asdf` core provides a [security policy](https://github.com/asdf-vm/asdf/sec
 | k0sctl                        | [Its-Alex/asdf-plugin-k0sctl](https://github.com/Its-Alex/asdf-plugin-k0sctl)                                     |
 | k2tf                          | [carlduevel/asdf-k2tf](https://github.com/carlduevel/asdf-k2tf)                                                   |
 | k3d                           | [spencergilbert/asdf-k3d](https://github.com/spencergilbert/asdf-k3d)                                             |
+| k3s                           | [dmpe/asdf-k3s](https://github.com/dmpe/asdf-k3s)                                                                 |
 | k3sup                         | [cgroschupp/asdf-k3sup](https://github.com/cgroschupp/asdf-k3sup)                                                 |
-| k6                            | [grimoh/asdf-k6](https://github.com/grimoh/asdf-k6)                                                               |
+| k6                            | [gr1m0h/asdf-k6](https://github.com/gr1m0h/asdf-k6)                                                               |
 | k9s                           | [looztra/asdf-k9s](https://github.com/looztra/asdf-k9s)                                                           |
 | kafka                         | [ueisele/asdf-kafka](https://github.com/ueisele/asdf-kafka)                                                       |
 | kafkactl                      | [anweber/asdf-kafkactl](https://github.com/anweber/asdf-kafkactl)                                                 |
@@ -449,6 +457,7 @@ The `asdf` core provides a [security policy](https://github.com/asdf-vm/asdf/sec
 | Lefthook                      | [jtzero/asdf-lefthook](https://github.com/jtzero/asdf-lefthook)                                                   |
 | Levant                        | [asdf-community/asdf-hashicorp](https://github.com/asdf-community/asdf-hashicorp)                                 |
 | LFE                           | [asdf-community/asdf-lfe](https://github.com/asdf-community/asdf-lfe)                                             |
+| libsql-server                 | [jonasb/asdf-libsql-server](https://github.com/jonasb/asdf-libsql-server)                                         |
 | Lima                          | [CrouchingMuppet/asdf-lima](https://github.com/CrouchingMuppet/asdf-lima)                                         |
 | Link (system tools)           | [asdf-community/asdf-link](https://github.com/asdf-community/asdf-link)                                           |
 | Linkerd                       | [kforsthoevel/asdf-linkerd](https://github.com/kforsthoevel/asdf-linkerd)                                         |
@@ -491,6 +500,7 @@ The `asdf` core provides a [security policy](https://github.com/asdf-vm/asdf/sec
 | mkcert                        | [salasrod/asdf-mkcert](https://github.com/salasrod/asdf-mkcert)                                                   |
 | mlton                         | [asdf-community/asdf-mlton](https://github.com/asdf-community/asdf-mlton)                                         |
 | mockery                       | [cabify/asdf-mockery](https://github.com/cabify/asdf-mockery)                                                     |
+| mockolo                       | [MontakOleg/asdf-mockolo](https://github.com/MontakOleg/asdf-mockolo)                                             |
 | Monarch                       | [nyuyuyu/asdf-monarch](https://github.com/nyuyuyu/asdf-monarch)                                                   |
 | mongo-tools                   | [itspngu/asdf-mongo-tools](https://github.com/itspngu/asdf-mongo-tools)                                           |
 | MongoDB                       | [sylph01/asdf-mongodb](https://github.com/sylph01/asdf-mongodb)                                                   |
@@ -521,6 +531,7 @@ The `asdf` core provides a [security policy](https://github.com/asdf-vm/asdf/sec
 | odo                           | [rm3l/asdf-odo](https://github.com/rm3l/asdf-odo)                                                                 |
 | okta-aws-cli                  | [bennythejudge/asdf-plugin-okta-aws-cli](https://github.com/bennythejudge/asdf-plugin-okta-aws-cli)               |
 | Okteto                        | [BradenM/asdf-okteto](https://github.com/BradenM/asdf-okteto)                                                     |
+| ollama                        | [virtualstaticvoid/asdf-ollama](https://github.com/virtualstaticvoid/asdf-ollama)                                 |
 | om                            | [vmware-tanzu/tanzu-plug-in-for-asdf](https://github.com/vmware-tanzu/tanzu-plug-in-for-asdf)                     |
 | Onyx                          | [jtakakura/asdf-onyx](https://github.com/jtakakura/asdf-onyx)                                                     |
 | OPA                           | [tochukwuvictor/asdf-opa](https://github.com/tochukwuvictor/asdf-opa)                                             |
@@ -617,6 +628,7 @@ The `asdf` core provides a [security policy](https://github.com/asdf-vm/asdf/sec
 | sccache                       | [emersonmx/asdf-sccache](https://github.com/emersonmx/asdf-sccache)                                               |
 | Scenery                       | [skyzyx/asdf-scenery](https://github.com/skyzyx/asdf-scenery)                                                     |
 | schemacrawler                 | [davidecavestro/asdf-schemacrawler](https://github.com/davidecavestro/asdf-schemacrawler)                         |
+| scie-pants                    | [robzr/asdf-scie-pants](https://github.com/robzr/asdf-scie-pants)                                                 |
 | Seed7                         | [susurri/asdf-seed7](https://github.com/susurri/asdf-seed7)                                                       |
 | Semgrep                       | [brentjanderson/asdf-semgrep](https://github.com/brentjanderson/asdf-semgrep)                                     |
 | semtag                        | [junminahn/asdf-semtag](https://github.com/junminahn/asdf-semtag)                                                 |
@@ -641,7 +653,7 @@ The `asdf` core provides a [security policy](https://github.com/asdf-vm/asdf/sec
 | Sonobuoy                      | [Nick-Triller/asdf-sonobuoy](https://github.com/Nick-Triller/asdf-sonobuoy)                                       |
 | Sops                          | [feniix/asdf-sops](https://github.com/feniix/asdf-sops)                                                           |
 | sopstool                      | [elementalvoid/asdf-sopstool](https://github.com/elementalvoid/asdf-sopstool)                                     |
-| soracom-cli                   | [grimoh/asdf-soracom](https://github.com/grimoh/asdf-soracom)                                                     |
+| soracom-cli                   | [gr1m0h/asdf-soracom](https://github.com/gr1m0h/asdf-soracom)                                                     |
 | Sourcery                      | [younke/asdf-sourcery](https://github.com/younke/asdf-sourcery)                                                   |
 | spacectl                      | [bodgit/asdf-spacectl](https://github.com/bodgit/asdf-spacectl)                                                   |
 | Spago                         | [jrrom/asdf-spago](https://github.com/jrrom/asdf-spago)                                                           |
@@ -657,7 +669,7 @@ The `asdf` core provides a [security policy](https://github.com/asdf-vm/asdf/sec
 | starboard                     | [zufardhiyaulhaq/asdf-starboard](https://github.com/zufardhiyaulhaq/asdf-starboard)                               |
 | Starknet Foundry              | [foundry-rs/asdf-starknet-foundry](https://github.com/foundry-rs/asdf-starknet-foundry)                           |
 | starport                      | [nikever/asdf-starport](https://github.com/nikever/asdf-starport)                                                 |
-| starship                      | [grimoh/asdf-starship](https://github.com/grimoh/asdf-starship)                                                   |
+| starship                      | [gr1m0h/asdf-starship](https://github.com/gr1m0h/asdf-starship)                                                   |
 | Staticcheck                   | [pbr0ck3r/asdf-staticcheck](https://github.com/pbr0ck3r/asdf-staticcheck)                                         |
 | steampipe                     | [carnei-ro/asdf-steampipe](https://github.com/carnei-ro/asdf-steampipe)                                           |
 | Steel Bank Common Lisp (sbcl) | [smashedtoatoms/asdf-sbcl](https://github.com/smashedtoatoms/asdf-sbcl)                                           |
@@ -665,6 +677,7 @@ The `asdf` core provides a [security policy](https://github.com/asdf-vm/asdf/sec
 | Stern                         | [looztra/asdf-stern](https://github.com/looztra/asdf-stern)                                                       |
 | stripe-cli                    | [offbyone/asdf-stripe](https://github.com/offbyone/asdf-stripe)                                                   |
 | stylua                        | [jc00ke/asdf-stylua](https://github.com/jc00ke/asdf-stylua)                                                       |
+| sver                          | [robzr/asdf-sver](https://github.com/robzr/asdf-sver)                                                             |
 | svu                           | [asdf-community/asdf-svu](https://github.com/asdf-community/asdf-svu)                                             |
 | swag                          | [behoof4mind/asdf-swag](https://github.com/behoof4mind/asdf-swag)                                                 |
 | Swift                         | [fcrespo82/asdf-swift](https://github.com/fcrespo82/asdf-swift)                                                   |
@@ -694,7 +707,7 @@ The `asdf` core provides a [security policy](https://github.com/asdf-vm/asdf/sec
 | terraform-ls                  | [asdf-community/asdf-hashicorp](https://github.com/asdf-community/asdf-hashicorp)                                 |
 | terraform-lsp                 | [bartlomiejdanek/asdf-terraform-lsp](https://github.com/bartlomiejdanek/asdf-terraform-lsp)                       |
 | Terraform-validator           | [looztra/asdf-terraform-validator](https://github.com/looztra/asdf-terraform-validator)                           |
-| Terraformer                   | [grimoh/asdf-terraformer](https://github.com/grimoh/asdf-terraformer)                                             |
+| Terraformer                   | [gr1m0h/asdf-terraformer](https://github.com/gr1m0h/asdf-terraformer)                                             |
 | Terragrunt                    | [ohmer/asdf-terragrunt](https://github.com/ohmer/asdf-terragrunt)                                                 |
 | Terramate                     | [martinlindner/asdf-terramate](https://github.com/martinlindner/asdf-terramate)                                   |
 | Terrascan                     | [hpdobrica/asdf-terrascan](https://github.com/hpdobrica/asdf-terrascan)                                           |
@@ -736,6 +749,7 @@ The `asdf` core provides a [security policy](https://github.com/asdf-vm/asdf/sec
 | upt                           | [ORCID/asdf-upt](https://github.com/ORCID/asdf-upt)                                                               |
 | upx                           | [jimmidyson/asdf-upx](https://github.com/jimmidyson/asdf-upx)                                                     |
 | usql                          | [itspngu/asdf-usql](https://github.com/itspngu/asdf-usql)                                                         |
+| uv                            | [asdf-community/asdf-uv](https://github.com/asdf-community/asdf-uv)                                               |
 | V                             | [jthegedus/asdf-v](https://github.com/jthegedus/asdf-v)                                                           |
 | vale                          | [pdemagny/asdf-vale](https://github.com/pdemagny/asdf-vale)                                                       |
 | vals                          | [dex4er/asdf-vals](https://github.com/dex4er/asdf-vals)                                                           |
