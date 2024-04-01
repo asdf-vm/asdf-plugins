@@ -231,6 +231,7 @@ The `asdf` core provides a [security policy](https://github.com/asdf-vm/asdf/sec
 | dust                          | [looztra/asdf-dust](https://github.com/looztra/asdf-dust)                                                         |
 | DVC                           | [fwfurtado/asdf-dvc](https://github.com/fwfurtado/asdf-dvc)                                                       |
 | dyff                          | [wt0f/asdf-dyff](https://gitlab.com/wt0f/asdf-dyff)                                                               |
+| dynatrace-monaco              | [nsaputro/asdf-monaco](https://github.com/nsaputro/asdf-monaco)                                                   |
 | earthly                       | [YR-ZR0/asdf-earthly](https://github.com/YR-ZR0/asdf-earthly)                                                     |
 | ecspresso                     | [kayac/asdf-ecspresso](https://github.com/kayac/asdf-ecspresso)                                                   |
 | editorconfig-checker          | [gabitchov/asdf-editorconfig-checker](https://github.com/gabitchov/asdf-editorconfig-checker)                     |
@@ -506,7 +507,6 @@ The `asdf` core provides a [security policy](https://github.com/asdf-vm/asdf/sec
 | mlton                         | [asdf-community/asdf-mlton](https://github.com/asdf-community/asdf-mlton)                                         |
 | mockery                       | [cabify/asdf-mockery](https://github.com/cabify/asdf-mockery)                                                     |
 | mockolo                       | [MontakOleg/asdf-mockolo](https://github.com/MontakOleg/asdf-mockolo)                                             |
-| dynatrace-monaco              | [nsaputro/asdf-monaco](https://github.com/nsaputro/asdf-monaco)                                                   |
 | Monarch                       | [nyuyuyu/asdf-monarch](https://github.com/nyuyuyu/asdf-monarch)                                                   |
 | mongo-tools                   | [itspngu/asdf-mongo-tools](https://github.com/itspngu/asdf-mongo-tools)                                           |
 | MongoDB                       | [sylph01/asdf-mongodb](https://github.com/sylph01/asdf-mongodb)                                                   |
