@@ -694,6 +694,7 @@ The `asdf` core provides a [security policy](https://github.com/asdf-vm/asdf/sec
 | Swiftlint                     | [klundberg/asdf-swiftlint](https://github.com/klundberg/asdf-swiftlint)                                           |
 | SWIProlog                     | [mracos/asdf-swiprolog](https://github.com/mracos/asdf-swiprolog)                                                 |
 | syft                          | [davidgp1701/asdf-syft](https://github.com/davidgp1701/asdf-syft)                                                 |
+| sync                          | [robzr/asdf-sync](https://github.com/robzr/asdf-sync)                                                             |
 | syncher                       | [nwillc/syncher](https://github.com/nwillc/syncher)                                                               |
 | talhelper                     | [bjw-s/asdf-talhelper](https://github.com/bjw-s/asdf-talhelper)                                                   |
 | Talos                         | [particledecay/asdf-talos](https://github.com/particledecay/asdf-talos)                                           |
