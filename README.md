@@ -555,7 +555,7 @@ The `asdf` core provides a [security policy](https://github.com/asdf-vm/asdf/sec
 | osqueryi                      | [davidecavestro/asdf-osqueryi](https://github.com/davidecavestro/asdf-osqueryi)                                   |
 | pachctl                       | [abatilo/asdf-pachctl](https://github.com/abatilo/asdf-pachctl)                                                   |
 | Packer                        | [asdf-community/asdf-hashicorp](https://github.com/asdf-community/asdf-hashicorp)                                 |
-| Pandoc                        | [Fbrisset/asdf-pandoc](https://github.com/Fbrisset/asdf-pandoc)                                                   |
+| Pandoc                        | [sys9kdr/asdf-pandoc](https://github.com/sys9kdr/asdf-pandoc)                                                     |
 | patat                         | [airtonix/asdf-patat](https://github.com/airtonix/asdf-patat)                                                     |
 | peco                          | [asdf-community/asdf-peco](https://github.com/asdf-community/asdf-peco)                                           |
 | pdm                           | [1oglop1/asdf-pdm](https://github.com/1oglop1/asdf-pdm)                                                           |
