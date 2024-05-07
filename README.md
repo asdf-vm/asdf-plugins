@@ -738,7 +738,7 @@ The `asdf` core provides a [security policy](https://github.com/asdf-vm/asdf/sec
 | tlsg-cli                      | [0ghny/asdf-tlsgcli](https://github.com/0ghny/asdf-tlsgcli)                                                       |
 | Tmux                          | [aphecetche/asdf-tmux](https://github.com/aphecetche/asdf-tmux)                                                   |
 | Tokei                         | [gasuketsu/asdf-tokei](https://github.com/gasuketsu/asdf-tokei)                                                   |
-| tomcat                        | [mbutov/asdf-tomcat](https://github.com/mbutov/asdf-tomcat)                                                       |
+| tomcat                        | [asdf-community/asdf-tomcat](https://github.com/asdf-community/asdf-tomcat)                                                       |
 | tonnage                       | [elementalvoid/asdf-tonnage](https://github.com/elementalvoid/asdf-tonnage)                                       |
 | tool-versions-to-env          | [smartcontractkit/tool-versions-to-env-action](https://github.com/smartcontractkit/tool-versions-to-env-action)   |
 | Traefik                       | [Dabolus/asdf-traefik](https://github.com/Dabolus/asdf-traefik)                                                   |
