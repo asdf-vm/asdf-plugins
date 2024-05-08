@@ -218,6 +218,7 @@ The `asdf` core provides a [security policy](https://github.com/asdf-vm/asdf/sec
 | doctl                         | [maristgeek/asdf-doctl](https://github.com/maristgeek/asdf-doctl)                                                 |
 | docToolchain                  | [joschi/asdf-doctoolchain](https://github.com/joschi/asdf-doctoolchain)                                           |
 | docuum                        | [bradym/asdf-docuum](https://github.com/bradym/asdf-docuum)                                                       |
+| dojo                          | [dojoengine/asdf-dojo](https://github.com/dojoengine/asdf-dojo)                                                   |
 | DOME                          | [jtakakura/asdf-dome](https://github.com/jtakakura/asdf-dome)                                                     |
 | doppler                       | [takutakahashi/asdf-doppler](https://github.com/takutakahashi/asdf-doppler)                                       |
 | dotenv-linter                 | [wesleimp/asdf-dotenv-linter](https://github.com/wesleimp/asdf-dotenv-linter)                                     |
