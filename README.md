@@ -766,6 +766,7 @@ The `asdf` core provides a [security policy](https://github.com/asdf-vm/asdf/sec
 | Velero                        | [looztra/asdf-velero](https://github.com/looztra/asdf-velero)                                                     |
 | vendir                        | [vmware-tanzu/asdf-carvel](https://github.com/vmware-tanzu/asdf-carvel)                                           |
 | Venom                         | [aabouzaid/asdf-venom](https://github.com/aabouzaid/asdf-venom)                                                   |
+| versio                        | [pdemagny/asdf-versio](https://github.com/pdemagny/asdf-versio)                                                   |
 | vcluster                      | [wt0f/asdf-vcluster](https://gitlab.com/wt0f/asdf-vcluster)                                                       |
 | vela                          | [pdemagny/asdf-vela](https://github.com/pdemagny/asdf-vela)                                                       |
 | velad                         | [pdemagny/asdf-velad](https://github.com/pdemagny/asdf-velad)                                                     |
