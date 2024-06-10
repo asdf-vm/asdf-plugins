@@ -196,6 +196,7 @@ The `asdf` core provides a [security policy](https://github.com/asdf-vm/asdf/sec
 | Dart                          | [PatOConnor43/asdf-dart](https://github.com/PatOConnor43/asdf-dart)                                               |
 | Dasel                         | [asdf-community/asdf-dasel](https://github.com/asdf-community/asdf-dasel)                                         |
 | datree                        | [lukeab/asdf-datree](https://github.com/lukeab/asdf-datree)                                                       |
+| database-tools                | [egose/database-tools](https://github.com/egose/asdf-database-tools)                                              |
 | Daytona                       | [CrouchingMuppet/asdf-daytona](https://github.com/CrouchingMuppet/asdf-daytona)                                   |
 | Dbmate                        | [juusujanar/asdf-dbmate](https://github.com/juusujanar/asdf-dbmate)                                               |
 | Deck                          | [nutellinoit/asdf-deck](https://github.com/nutellinoit/asdf-deck)                                                 |
