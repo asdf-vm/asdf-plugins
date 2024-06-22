@@ -719,6 +719,7 @@ The `asdf` core provides a [security policy](https://github.com/asdf-vm/asdf/sec
 | Terragrunt                    | [ohmer/asdf-terragrunt](https://github.com/ohmer/asdf-terragrunt)                                                 |
 | Terramate                     | [martinlindner/asdf-terramate](https://github.com/martinlindner/asdf-terramate)                                   |
 | Terrascan                     | [hpdobrica/asdf-terrascan](https://github.com/hpdobrica/asdf-terrascan)                                           |
+| tf                            | [dex4er/asdf-tf](https://github.com/dex4er/asdf-tf)                                                               |
 | tfctl                         | [deas/asdf-tfctl](https://github.com/deas/asdf-tfctl)                                                             |
 | tfc-agent                     | [asdf-community/asdf-hashicorp](https://github.com/asdf-community/asdf-hashicorp)                                 |
 | tfenv                         | [carlduevel/asdf-tfenv](https://github.com/carlduevel/asdf-tfenv)                                                 |
