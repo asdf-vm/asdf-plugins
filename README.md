@@ -485,7 +485,7 @@ The `asdf` core provides a [security policy](https://github.com/asdf-vm/asdf/sec
 | marp-cli                      | [xataz/asdf-marp-cli](https://github.com/xataz/asdf-marp-cli)                                                     |
 | mask                          | [aaaaninja/asdf-mask](https://github.com/aaaaninja/asdf-mask)                                                     |
 | Maven                         | [halcyon/asdf-maven](https://github.com/halcyon/asdf-maven)                                                       |
-| mdbook                        | [cipherstash/asdf-mdbook](https://github.com/cipherstash/asdf-mdbook)                                             |
+| mdbook                        | [hashemi-soroush/asdf-mdbook](https://github.com/hashemi-soroush/asdf-mdbook) |
 | mdbook-linkcheck              | [cipherstash/asdf-mdbook-linkcheck](https://github.com/cipherstash/asdf-mdbook-linkcheck)                         |
 | melange                       | [omissis/asdf-melange](https://github.com/omissis/asdf-melange)                                                   |
 | melt                          | [chessmango/asdf-melt](https://github.com/chessmango/asdf-melt)                                                   |
