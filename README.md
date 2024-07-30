@@ -310,6 +310,7 @@ The `asdf` core provides a [security policy](https://github.com/asdf-vm/asdf/sec
 | goconvey                      | [therounds-contrib/asdf-goconvey](https://github.com/therounds-contrib/asdf-goconvey)                             |
 | gofumpt                       | [looztra/asdf-gofumpt](https://github.com/looztra/asdf-gofumpt)                                                   |
 | GoHugo                        | [nklmilojevic/asdf-hugo](https://github.com/nklmilojevic/asdf-hugo)                                               |
+| gobackup                      | [0ghny/asdf-gobackup](https://github.com/0ghny/asdf-gobackup)                                                     |
 | gojq                          | [jimmidyson/asdf-gojq](https://github.com/jimmidyson/asdf-gojq)                                                   |
 | golangci-lint                 | [hypnoglow/asdf-golangci-lint](https://github.com/hypnoglow/asdf-golangci-lint)                                   |
 | Go Migrate                    | [joschi/asdf-gomigrate](https://github.com/joschi/asdf-gomigrate)                                                 |
