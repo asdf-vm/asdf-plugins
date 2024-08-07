@@ -251,6 +251,7 @@ The `asdf` core provides a [security policy](https://github.com/asdf-vm/asdf/sec
 | etcd                          | [particledecay/asdf-etcd](https://github.com/particledecay/asdf-etcd)                                             |
 | Evans                         | [goki90210/asdf-evans](https://github.com/goki90210/asdf-evans)                                                   |
 | exa                           | [nyrst/asdf-exa](https://github.com/nyrst/asdf-exa)                                                               |
+| exercism                      | [bheesham/asdf-exercism](https://gitlab.com/bheesham/asdf-exercism)                                               |
 | eza                           | [lwiechec/asdf-eza](https://github.com/lwiechec/asdf-eza)                                                         |
 | fd                            | [wt0f/asdf-fd](https://gitlab.com/wt0f/asdf-fd)                                                                   |
 | FFmpeg                        | [acj/asdf-ffmpeg](https://github.com/acj/asdf-ffmpeg)                                                             |
