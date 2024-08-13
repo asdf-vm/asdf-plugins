@@ -252,6 +252,7 @@ The `asdf` core provides a [security policy](https://github.com/asdf-vm/asdf/sec
 | Evans                         | [goki90210/asdf-evans](https://github.com/goki90210/asdf-evans)                                                   |
 | exa                           | [nyrst/asdf-exa](https://github.com/nyrst/asdf-exa)                                                               |
 | eza                           | [lwiechec/asdf-eza](https://github.com/lwiechec/asdf-eza)                                                         |
+| fastlane                      | [mollyIV/asdf-fastlane](https://github.com/mollyIV/asdf-fastlane)                                                 |
 | fd                            | [wt0f/asdf-fd](https://gitlab.com/wt0f/asdf-fd)                                                                   |
 | FFmpeg                        | [acj/asdf-ffmpeg](https://github.com/acj/asdf-ffmpeg)                                                             |
 | figma-export                  | [younke/asdf-figma-export](https://github.com/younke/asdf-figma-export)                                           |
