@@ -176,6 +176,7 @@ The `asdf` core provides a [security policy](https://github.com/asdf-vm/asdf/sec
 | container-diff                | [cgroschupp/asdf-container-diff](https://github.com/cgroschupp/asdf-container-diff)                               |
 | container-structure-test      | [FeryET/asdf-container-structure-test](https://github.com/FeryET/asdf-container-structure-test)                   |
 | cookiecutter                  | [shawon-crosen/asdf-cookiecutter](https://github.com/shawon-crosen/asdf-cookiecutter)                             |
+| Copier                        | [looztra/asdf-copier](https://github.com/looztra/asdf-copier)                                                     |
 | Copper                        | [vladlosev/asdf-copper](https://github.com/vladlosev/asdf-copper)                                                 |
 | Coq                           | [gingerhot/asdf-coq](https://github.com/gingerhot/asdf-coq)                                                       |
 | cosign                        | [wt0f/asdf-cosign](https://gitlab.com/wt0f/asdf-cosign)                                                           |
