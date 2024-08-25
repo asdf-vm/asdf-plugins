@@ -627,6 +627,7 @@ The `asdf` core provides a [security policy](https://github.com/asdf-vm/asdf/sec
 | rye                           | [Azuki-bar/asdf-rye](https://github.com/Azuki-bar/asdf-rye)                                                       |
 | saml2aws                      | [elementalvoid/asdf-saml2aws](https://github.com/elementalvoid/asdf-saml2aws)                                     |
 | SBT                           | [bram2000/asdf-sbt](https://github.com/bram2000/asdf-sbt)                                                         |
+| scaffold                      | [particledecay/asdf-scaffold](https://github.com/particledecay/asdf-scaffold)                                     |
 | Scala                         | [asdf-community/asdf-scala](https://github.com/asdf-community/asdf-scala)                                         |
 | Scala CLI                     | [asdf-community/asdf-scala-cli](https://github.com/asdf-community/asdf-scala-cli)                                 |
 | scaleway-cli                  | [albarralnunez/asdf-plugin-scaleway-cli](https://github.com/albarralnunez/asdf-plugin-scaleway-cli)               |
