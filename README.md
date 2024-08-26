@@ -667,6 +667,7 @@ The `asdf` core provides a [security policy](https://github.com/asdf-vm/asdf/sec
 | Spark                         | [joshuaballoch/asdf-spark](https://github.com/joshuaballoch/asdf-spark)                                           |
 | Spectral                      | [vbyrd/asdf-spectral](https://github.com/vbyrd/asdf-spectral)                                                     |
 | Spin                          | [pavloos/asdf-spin](https://github.com/pavloos/asdf-spin)                                                         |
+| spotbugs                      | [jiahuili430/asdf-spotbugs](https://github.com/jiahuili430/asdf-spotbugs)                                         |
 | Spring Boot CLI               | [joschi/asdf-spring-boot](https://github.com/joschi/asdf-spring-boot)                                             |
 | Spruce                        | [woneill/asdf-spruce](https://github.com/woneill/asdf-spruce)                                                     |
 | sqldef                        | [cometkim/asdf-sqldef](https://github.com/cometkim/asdf-sqldef)                                                   |
