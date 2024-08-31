@@ -124,6 +124,7 @@ The `asdf` core provides a [security policy](https://github.com/asdf-vm/asdf/sec
 | Buildpack                     | [johnlayton/asdf-buildpack](https://github.com/johnlayton/asdf-buildpack)                                         |
 | Bun                           | [cometkim/asdf-bun](https://github.com/cometkim/asdf-bun)                                                         |
 | Bundler                       | [jonathanmorley/asdf-bundler](https://github.com/jonathanmorley/asdf-bundler)                                     |
+| c3                            | [RobLoach/asdf-c3](https://github.com/RobLoach/asdf-c3)                                                           |
 | Cabal                         | [sestrella/asdf-ghcup](https://github.com/sestrella/asdf-ghcup)                                                   |
 | Caddy                         | [salasrod/asdf-caddy](https://github.com/salasrod/asdf-caddy)                                                     |
 | CalendarSync                  | [FeryET/asdf-calendarsync](https://github.com/FeryET/asdf-calendarsync)                                           |
