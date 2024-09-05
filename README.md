@@ -1,12 +1,14 @@
 # asdf plugins repository
 
-The purpose of the [asdf](https://github.com/asdf-vm/asdf) plugins repository is to enable shorthand installation of plugins with:
+The purpose of the [asdf](https://github.com/asdf-vm/asdf) plugins repository is
+to enable shorthand installation of plugins with:
 
 ```shell
 asdf plugin add <name>
 ```
 
-The asdf core team recommend using the long-form which does not rely on this repository:
+The asdf core team recommend using the long-form which does not rely on this
+repository:
 
 ```shell
 asdf plugin add <name> <git_url>
@@ -16,30 +18,48 @@ Read each plugins code before installation and usage.
 
 ## Existing Plugins
 
-Plugins listed here should be _stable_ and actively _maintained_. If you have issues with a specific plugin please raise them on the plugin repository first. If a deprecated plugin is listed here, please let us know and create a PR to add the most used alternative.
+Plugins listed here should be _stable_ and actively _maintained_. If you have
+issues with a specific plugin please raise them on the plugin repository first.
+If a deprecated plugin is listed here, please let us know and create a PR to add
+the most used alternative.
 
 ## Creating a new Plugin
 
-- Read the [creating plugins guide](https://github.com/asdf-vm/asdf/blob/master/docs/plugins/create.md)
-- Consider using our [Template](https://github.com/asdf-vm/asdf-plugin-template) which has the core functionality to tools published to GitHub releases and CI for GitHub/GitLab/CircleCI out of the box.
+- Read the
+  [creating plugins guide](https://github.com/asdf-vm/asdf/blob/master/docs/plugins/create.md)
+- Consider using our [Template](https://github.com/asdf-vm/asdf-plugin-template)
+  which has the core functionality to tools published to GitHub releases and CI
+  for GitHub/GitLab/CircleCI out of the box.
 
 ### `asdf-community`
 
-If you're creating a new plugin consider creating it as part of the [`asdf-community`](https://github.com/asdf-community/.github) project. This is a separate community project with consolidated maintenance.
+If you're creating a new plugin consider creating it as part of the
+[`asdf-community`](https://github.com/asdf-community/.github) project. This is a
+separate community project with consolidated maintenance.
 
 ## Contributing a new Plugin
 
 - Install repo dependencies: `asdf install`
 - Add the plugin to the repository `README.md` _Plugin List_ table.
-- Create a file with the shortname you wish to be used by asdf in `plugins/<name>`. The contents should be `repository = <your_repo>`.
-  - eg: `printf "repository = https://github.com/asdf-vm/asdf-nodejs.git\n" > plugins/nodejs`
+- Create a file with the shortname you wish to be used by asdf in
+  `plugins/<name>`. The contents should be `repository = <your_repo>`.
+  - eg:
+    `printf "repository = https://github.com/asdf-vm/asdf-nodejs.git\n" > plugins/nodejs`
 - Test your code : `scripts/test_plugin.bash --file plugins/<name>`
 - Format your code & this README: `scripts/format.bash`
 - Create a PR following the instructions in the PR template.
 
 ## Security
 
-The `asdf` core provides a [security policy](https://github.com/asdf-vm/asdf/security/policy) which covers the core `asdf` tool. Plugins are the responsibility of their creators and not covered by the `asdf` policy. It is the responsibility of the user to evaluate each plugin they use for security concerns, even those in the `asdf-community` repositories. You can pin a plugin to a commit of the source repo with `asdf plugin update <name> <git-ref>`, however running `asdf plugin update <name>` or `asdf plugin update --all` will change the `sha` you have previously set.
+The `asdf` core provides a
+[security policy](https://github.com/asdf-vm/asdf/security/policy) which covers
+the core `asdf` tool. Plugins are the responsibility of their creators and not
+covered by the `asdf` policy. It is the responsibility of the user to evaluate
+each plugin they use for security concerns, even those in the `asdf-community`
+repositories. You can pin a plugin to a commit of the source repo with
+`asdf plugin update <name> <git-ref>`, however running
+`asdf plugin update <name>` or `asdf plugin update --all` will change the `sha`
+you have previously set.
 
 ## Plugin List
 
@@ -151,6 +171,9 @@ The `asdf` core provides a [security policy](https://github.com/asdf-vm/asdf/sec
 | Chromedriver                  | [schinckel/asdf-chromedriver](https://github.com/schinckel/asdf-chromedriver)                                     |
 | cilium-cli                    | [carnei-ro/asdf-cilium-cli](https://github.com/carnei-ro/asdf-cilium-cli)                                         |
 | cilium-hubble                 | [NitriKx/asdf-cilium-hubble](https://github.com/NitriKx/asdf-cilium-hubble)                                       |
+| clang                         | [higebu/asdf-llvm.git](https://github.com/higebu/asdf-llvm.git)                                                   |
+| clangd                        | [higebu/asdf-llvm.git](https://github.com/higebu/asdf-llvm.git)                                                   |
+| clang-format                  | [higebu/asdf-llvm.git](https://github.com/higebu/asdf-llvm.git)                                                   |
 | Clarinet                      | [alexgo-io/asdf-clarinet](https://github.com/alexgo-io/asdf-clarinet)                                             |
 | clj-kondo                     | [rynkowsg/asdf-clj-kondo](https://github.com/rynkowsg/asdf-clj-kondo)                                             |
 | cljstyle                      | [abogoyavlensky/asdf-cljstyle](https://github.com/abogoyavlensky/asdf-cljstyle)                                   |
@@ -469,6 +492,8 @@ The `asdf` core provides a [security policy](https://github.com/asdf-vm/asdf/sec
 | liqoctl                       | [pdemagny/asdf-liqoctl](https://github.com/pdemagny/asdf-liqoctl)                                                 |
 | liquibase                     | [saliougaye/asdf-liquibase](https://github.com/saliougaye/asdf-liquibase)                                         |
 | Litestream                    | [threkk/asdf-litestream](https://github.com/threkk/asdf-litestream)                                               |
+| llvm-objcopy                  | [higebu/asdf-llvm.git](https://github.com/higebu/asdf-llvm.git)                                                   |
+| llvm-objdump                  | [higebu/asdf-llvm.git](https://github.com/higebu/asdf-llvm.git)                                                   |
 | Logtalk                       | [LogtalkDotOrg/asdf-logtalk](https://github.com/LogtalkDotOrg/asdf-logtalk)                                       |
 | Loki-Logcli                   | [comdotlinux/asdf-loki-logcli](https://github.com/comdotlinux/asdf-loki-logcli)                                   |
 | ls-lint                       | [ameausoone/asdf-ls-lint](https://github.com/ameausoone/asdf-ls-lint)                                             |
