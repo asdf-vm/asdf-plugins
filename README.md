@@ -78,6 +78,7 @@ The `asdf` core provides a [security policy](https://github.com/asdf-vm/asdf/sec
 | asdf-plugin-manager           | [asdf-community/asdf-plugin-manager](https://github.com/asdf-community/asdf-plugin-manager)                       |
 | assh                          | [zekker6/asdf-assh](https://github.com/zekker6/asdf-assh)                                                         |
 | atlas                         | [pbr0ck3r/asdf-atlas](https://github.com/pbr0ck3r/asdf-atlas)                                                     |
+| atmos                         | [cloudposse/atmos](https://github.com/cloudposse/asdf-atmos)                                                      |
 | auto-doc                      | [looztra/asdf-auto-doc](https://github.com/looztra/asdf-auto-doc)                                                 |
 | aws-copilot                   | [NeoHsu/asdf-copilot](https://github.com/NeoHsu/asdf-copilot)                                                     |
 | aws-amplify-cli               | [LozanoMatheus/asdf-aws-amplify-cli](https://github.com/LozanoMatheus/asdf-aws-amplify-cli)                       |
