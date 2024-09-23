@@ -314,7 +314,7 @@ The `asdf` core provides a [security policy](https://github.com/asdf-vm/asdf/sec
 | golangci-lint                 | [hypnoglow/asdf-golangci-lint](https://github.com/hypnoglow/asdf-golangci-lint)                                   |
 | Go Migrate                    | [joschi/asdf-gomigrate](https://github.com/joschi/asdf-gomigrate)                                                 |
 | gomplate                      | [sneakybeaky/asdf-gomplate](https://github.com/sneakybeaky/asdf-gomplate)                                         |
-| Gopass                        | [trallnag/asdf-gopass](https://github.com/trallnag/asdf-gopass)                                                   |
+| Gopass                        | [andrelohmann/asdf-gopass](https://github.com/andrelohmann/asdf-gopass)                                                   |
 | GoReleaser                    | [kforsthoevel/asdf-goreleaser](https://github.com/kforsthoevel/asdf-goreleaser)                                   |
 | Goss                          | [raimon49/asdf-goss](https://github.com/raimon49/asdf-goss)                                                       |
 | GraalVM                       | [asdf-community/asdf-graalvm](https://github.com/asdf-community/asdf-graalvm)                                     |
