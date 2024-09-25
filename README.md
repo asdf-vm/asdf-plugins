@@ -267,6 +267,7 @@ The `asdf` core provides a [security policy](https://github.com/asdf-vm/asdf/sec
 | fly                           | [vmware-tanzu/tanzu-plug-in-for-asdf](https://github.com/vmware-tanzu/tanzu-plug-in-for-asdf)                     |
 | flyctl                        | [chessmango/asdf-flyctl](https://github.com/chessmango/asdf-flyctl)                                               |
 | flyway                        | [junminahn/asdf-flyway](https://github.com/junminahn/asdf-flyway)                                                 |
+| frankenphp                    | [theutz/asdf-frankenphp](https://github.com/theutz/asdf-frankenphp)                                               |
 | func-e                        | [carnei-ro/asdf-func-e](https://github.com/carnei-ro/asdf-func-e)                                                 |
 | Furyctl                       | [sighupio/asdf-furyctl](https://github.com/sighupio/asdf-furyctl)                                                 |
 | fx                            | [wt0f/asdf-fx](https://gitlab.com/wt0f/asdf-fx)                                                                   |
