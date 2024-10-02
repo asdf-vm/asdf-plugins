@@ -567,6 +567,7 @@ The `asdf` core provides a [security policy](https://github.com/asdf-vm/asdf/sec
 | pipx                          | [yozachar/asdf-pipx](https://github.com/yozachar/asdf-pipx)                                                       |
 | pivnet                        | [vmware-tanzu/tanzu-plug-in-for-asdf](https://github.com/vmware-tanzu/tanzu-plug-in-for-asdf)                     |
 | pkl                           | [mise-plugins/asdf-pkl](https://github.com/mise-plugins/asdf-pkl)                                                 |
+| PlantScale CLI                | [kota65535/asdf-planetscale-cli](https://github.com/kota65535/asdf-planetscale-cli) |
 | Please                        | [asdf-community/asdf-please](https://github.com/asdf-community/asdf-please)                                       |
 | Pluto                         | [FairwindsOps/asdf-pluto](https://github.com/FairwindsOps/asdf-pluto)                                             |
 | pnpm                          | [jonathanmorley/asdf-pnpm](https://github.com/jonathanmorley/asdf-pnpm)                                           |
