@@ -794,6 +794,7 @@ The `asdf` core provides a [security policy](https://github.com/asdf-vm/asdf/sec
 | xc                            | [airtonix/asdf-xc](https://github.com/airtonix/asdf-xc)                                                           |
 | xcbeautify                    | [MacPaw/asdf-xcbeautify](https://github.com/MacPaw/asdf-xcbeautify)                                               |
 | xcodes                        | [younke/asdf-xcodes](https://github.com/younke/asdf-xcodes)                                                       |
+| xcresultparser                | [MacPaw/asdf-xcresultparser](https://github.com/MacPaw/asdf-xcresultparser)                                       |
 | xh                            | [NeoHsu/asdf-xh](https://github.com/NeoHsu/asdf-xh)                                                               |
 | yadm                          | [particledecay/asdf-yadm](https://github.com/particledecay/asdf-yadm)                                             |
 | yamlfmt                       | [kachick/asdf-yamlfmt](https://github.com/kachick/asdf-yamlfmt)                                                   |
