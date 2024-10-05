@@ -216,7 +216,7 @@ The `asdf` core provides a [security policy](https://github.com/asdf-vm/asdf/sec
 | docker-slim                   | [xataz/asdf-docker-slim](https://github.com/xataz/asdf-docker-slim)                                               |
 | docker-compose-v1             | [yilas/asdf-docker-compose-v1](https://github.com/yilas/asdf-docker-compose-v1)                                   |
 | dockle                        | [mathew-fleisch/asdf-dockle](https://github.com/mathew-fleisch/asdf-dockle)                                       |
-| doctl                         | [maristgeek/asdf-doctl](https://github.com/maristgeek/asdf-doctl)                                                 |
+| doctl                         | [bstoutenburgh/asdf-doctl](https://github.com/bstoutenburgh/asdf-doctl)                                           |
 | docToolchain                  | [joschi/asdf-doctoolchain](https://github.com/joschi/asdf-doctoolchain)                                           |
 | docuum                        | [bradym/asdf-docuum](https://github.com/bradym/asdf-docuum)                                                       |
 | dojo                          | [dojoengine/asdf-dojo](https://github.com/dojoengine/asdf-dojo)                                                   |
