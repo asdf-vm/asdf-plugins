@@ -196,7 +196,6 @@ The `asdf` core provides a [security policy](https://github.com/asdf-vm/asdf/sec
 | Dart                          | [PatOConnor43/asdf-dart](https://github.com/PatOConnor43/asdf-dart)                                               |
 | Dasel                         | [asdf-community/asdf-dasel](https://github.com/asdf-community/asdf-dasel)                                         |
 | datree                        | [lukeab/asdf-datree](https://github.com/lukeab/asdf-datree)                                                       |
-| database-tools                | [egose/database-tools](https://github.com/egose/asdf-database-tools)                                              |
 | Daytona                       | [CrouchingMuppet/asdf-daytona](https://github.com/CrouchingMuppet/asdf-daytona)                                   |
 | Dbmate                        | [juusujanar/asdf-dbmate](https://github.com/juusujanar/asdf-dbmate)                                               |
 | Deck                          | [nutellinoit/asdf-deck](https://github.com/nutellinoit/asdf-deck)                                                 |
@@ -511,6 +510,7 @@ The `asdf` core provides a [security policy](https://github.com/asdf-vm/asdf/sec
 | Monarch                       | [nyuyuyu/asdf-monarch](https://github.com/nyuyuyu/asdf-monarch)                                                   |
 | mongo-tools                   | [itspngu/asdf-mongo-tools](https://github.com/itspngu/asdf-mongo-tools)                                           |
 | MongoDB                       | [sylph01/asdf-mongodb](https://github.com/sylph01/asdf-mongodb)                                                   |
+| mongodb-database-tools        | [egose/database-tools](https://github.com/egose/asdf-database-tools)                                              |
 | mongosh                       | [itspngu/asdf-mongosh](https://github.com/itspngu/asdf-mongosh)                                                   |
 | mutanus                       | [SoriUR/asdf-mutanus](https://github.com/SoriUR/asdf-mutanus)                                                     |
 | mvnd                          | [joschi/asdf-mvnd](https://github.com/joschi/asdf-mvnd)                                                           |
