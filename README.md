@@ -521,6 +521,7 @@ The `asdf` core provides a [security policy](https://github.com/asdf-vm/asdf/sec
 | nasm                          | [Dpbm/asdf-nasm](https://github.com/Dpbm/asdf-nasm)                                                               |
 | Neko Virtual Machine          | [asdf-community/asdf-neko](https://github.com/asdf-community/asdf-neko)                                           |
 | Neovim                        | [richin13/asdf-neovim](https://github.com/richin13/asdf-neovim)                                                   |
+| Nerves Toolchain              | [nerves-project/asdf-plugin-nerves-toolchain](https://github.com/nerves-project/asdf-plugin-nerves-toolchain)     |
 | nerdctl                       | [dmpe/asdf-nerdctl](https://github.com/dmpe/asdf-nerdctl)                                                         |
 | newrelic-cli                  | [NeoHsu/asdf-newrelic-cli](https://github.com/NeoHsu/asdf-newrelic-cli)                                           |
 | nfpm                          | [ORCID/asdf-nfpm](https://github.com/ORCID/asdf-nfpm)                                                             |
