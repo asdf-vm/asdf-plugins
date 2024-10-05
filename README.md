@@ -719,6 +719,7 @@ The `asdf` core provides a [security policy](https://github.com/asdf-vm/asdf/sec
 | Task                          | [particledecay/asdf-task](https://github.com/particledecay/asdf-task)                                             |
 | tctl                          | [eko/asdf-tctl](https://github.com/eko/asdf-tctl)                                                                 |
 | Tekton-cli                    | [johnhamelink/asdf-tekton-cli](https://github.com/johnhamelink/asdf-tekton-cli)                                   |
+| Tekton pipeline-as-code CLI   | [ifireball/asdf-tekton-pac-cli](https://github.com/ifireball/asdf-tekton-pac-cli)                                 |
 | Teleport Enterprise           | [highb/asdf-teleport-ent](https://github.com/highb/asdf-teleport-ent)                                             |
 | Teleport Community            | [MaloPolese/asdf-teleport-community](https://github.com/MaloPolese/asdf-teleport-community)                       |
 | telepresence                  | [pirackr/asdf-telepresence](https://github.com/pirackr/asdf-telepresence)                                         |
