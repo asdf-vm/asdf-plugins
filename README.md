@@ -340,6 +340,7 @@ The `asdf` core provides a [security policy](https://github.com/asdf-vm/asdf/sec
 | Haxe                          | [asdf-community/asdf-haxe](https://github.com/asdf-community/asdf-haxe)                                           |
 | hcl2json                      | [dex4er/asdf-hcl2json](https://github.com/dex4er/asdf-hcl2json)                                                   |
 | hcloud                        | [chessmango/asdf-hcloud](https://github.com/chessmango/asdf-hcloud)                                               |
+| Helix Editor                  | [CSergienko/asdf-helix](https://github.com/CSergienko/asdf-helix)                                                 |
 | Helm                          | [Antiarchitect/asdf-helm](https://github.com/Antiarchitect/asdf-helm)                                             |
 | Helm Chart Releaser           | [Antiarchitect/asdf-helm-cr](https://github.com/Antiarchitect/asdf-helm-cr)                                       |
 | Helm Chart Tester             | [tablexi/asdf-helm-ct](https://github.com/tablexi/asdf-helm-ct)                                                   |
