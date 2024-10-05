@@ -518,6 +518,7 @@ The `asdf` core provides a [security policy](https://github.com/asdf-vm/asdf/sec
 | Monarch                       | [nyuyuyu/asdf-monarch](https://github.com/nyuyuyu/asdf-monarch)                                                   |
 | mongo-tools                   | [itspngu/asdf-mongo-tools](https://github.com/itspngu/asdf-mongo-tools)                                           |
 | MongoDB                       | [sylph01/asdf-mongodb](https://github.com/sylph01/asdf-mongodb)                                                   |
+| mongodb-database-tools        | [egose/database-tools](https://github.com/egose/asdf-database-tools)                                              |
 | mongosh                       | [itspngu/asdf-mongosh](https://github.com/itspngu/asdf-mongosh)                                                   |
 | mutanus                       | [SoriUR/asdf-mutanus](https://github.com/SoriUR/asdf-mutanus)                                                     |
 | mvnd                          | [joschi/asdf-mvnd](https://github.com/joschi/asdf-mvnd)                                                           |
