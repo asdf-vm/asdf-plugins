@@ -68,6 +68,7 @@ The `asdf` core provides a [security policy](https://github.com/asdf-vm/asdf/sec
 | ant                           | [jackboespflug/asdf-ant](https://github.com/jackboespflug/asdf-ant)                                               |
 | Apache Jmeter                 | [comdotlinux/asdf-jmeter](https://github.com/comdotlinux/asdf-jmeter)                                             |
 | apko                          | [omissis/asdf-apko](https://github.com/omissis/asdf-apko)                                                         |
+| apollo-ios-cli                | [MacPaw/asdf-apollo-ios-cli](https://github.com/MacPaw/asdf-apollo-ios-cli)                                       |
 | Apollo Router                 | [safx/asdf-apollo-router](https://github.com/safx/asdf-apollo-router)                                             |
 | arc                           | [ORCID/asdf-arc](https://github.com/ORCID/asdf-arc)                                                               |
 | argo                          | [sudermanjr/asdf-argo](https://github.com/sudermanjr/asdf-argo)                                                   |
@@ -641,6 +642,7 @@ The `asdf` core provides a [security policy](https://github.com/asdf-vm/asdf/sec
 | semtag                        | [junminahn/asdf-semtag](https://github.com/junminahn/asdf-semtag)                                                 |
 | semver                        | [mathew-fleisch/asdf-semver](https://github.com/mathew-fleisch/asdf-semver)                                       |
 | Sentinel                      | [asdf-community/asdf-hashicorp](https://github.com/asdf-community/asdf-hashicorp)                                 |
+| sentry-cli                    | [MacPaw/asdf-sentry-cli](https://github.com/MacPaw/asdf-sentry-cli)                                               |
 | Serf                          | [asdf-community/asdf-hashicorp](https://github.com/asdf-community/asdf-hashicorp)                                 |
 | serverless                    | [pdemagny/asdf-serverless](https://github.com/pdemagny/asdf-serverless)                                           |
 | shell2http                    | [ORCID/asdf-shell2http](https://github.com/ORCID/asdf-shell2http)                                                 |
@@ -790,6 +792,7 @@ The `asdf` core provides a [security policy](https://github.com/asdf-vm/asdf/sec
 | XCTestHTMLReport              | [younke/asdf-xchtmlreport](https://github.com/younke/asdf-xchtmlreport)                                           |
 | XcodeGen                      | [younke/asdf-xcodegen](https://github.com/younke/asdf-xcodegen)                                                   |
 | xc                            | [airtonix/asdf-xc](https://github.com/airtonix/asdf-xc)                                                           |
+| xcbeautify                    | [MacPaw/asdf-xcbeautify](https://github.com/MacPaw/asdf-xcbeautify)                                               |
 | xcodes                        | [younke/asdf-xcodes](https://github.com/younke/asdf-xcodes)                                                       |
 | xh                            | [NeoHsu/asdf-xh](https://github.com/NeoHsu/asdf-xh)                                                               |
 | yadm                          | [particledecay/asdf-yadm](https://github.com/particledecay/asdf-yadm)                                             |
@@ -808,6 +811,7 @@ The `asdf` core provides a [security policy](https://github.com/asdf-vm/asdf/sec
 | zellij                        | [chessmango/asdf-zellij](https://github.com/chessmango/asdf-zellij)                                               |
 | Zephyr                        | [nsaunders/asdf-zephyr](https://github.com/nsaunders/asdf-zephyr)                                                 |
 | Zig                           | [cheetah/asdf-zig](https://github.com/cheetah/asdf-zig)                                                           |
+| zls                           | [miome/asdf-zls](https://github.com/m1ome/asdf-zls)                                                               |
 | zigmod                        | [kachick/asdf-zigmod](https://github.com/kachick/asdf-zigmod)                                                     |
 | Zola                          | [salasrod/asdf-zola](https://github.com/salasrod/asdf-zola)                                                       |
 | zoxide                        | [nyrst/asdf-zoxide](https://github.com/nyrst/asdf-zoxide)                                                         |
