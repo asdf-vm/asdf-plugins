@@ -687,6 +687,7 @@ The `asdf` core provides a [security policy](https://github.com/asdf-vm/asdf/sec
 | Stack                         | [sestrella/asdf-ghcup](https://github.com/sestrella/asdf-ghcup)                                                   |
 | starboard                     | [zufardhiyaulhaq/asdf-starboard](https://github.com/zufardhiyaulhaq/asdf-starboard)                               |
 | Starkli                       | [ptisserand/asdf-starkli](https://github.com/ptisserand/asdf-starkli)                                             |
+| Starknet Devnet               | [ptisserand/asdf-starknet-devnet](https://github.com/ptisserand/asdf-starknet-devnet)                             |
 | Starknet Foundry              | [foundry-rs/asdf-starknet-foundry](https://github.com/foundry-rs/asdf-starknet-foundry)                           |
 | starport                      | [nikever/asdf-starport](https://github.com/nikever/asdf-starport)                                                 |
 | starship                      | [gr1m0h/asdf-starship](https://github.com/gr1m0h/asdf-starship)                                                   |
