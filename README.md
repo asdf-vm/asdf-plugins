@@ -810,6 +810,7 @@ The `asdf` core provides a [security policy](https://github.com/asdf-vm/asdf/sec
 | zellij                        | [chessmango/asdf-zellij](https://github.com/chessmango/asdf-zellij)                                               |
 | Zephyr                        | [nsaunders/asdf-zephyr](https://github.com/nsaunders/asdf-zephyr)                                                 |
 | Zig                           | [cheetah/asdf-zig](https://github.com/cheetah/asdf-zig)                                                           |
+| zls                           | [miome/asdf-zls](https://github.com/m1ome/asdf-zls)                                                               |
 | zigmod                        | [kachick/asdf-zigmod](https://github.com/kachick/asdf-zigmod)                                                     |
 | Zola                          | [salasrod/asdf-zola](https://github.com/salasrod/asdf-zola)                                                       |
 | zoxide                        | [nyrst/asdf-zoxide](https://github.com/nyrst/asdf-zoxide)                                                         |
