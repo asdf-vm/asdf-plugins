@@ -419,6 +419,7 @@ The `asdf` core provides a [security policy](https://github.com/asdf-vm/asdf/sec
 | ko                            | [zasdaym/asdf-ko](https://github.com/zasdaym/asdf-ko)                                                             |
 | Koka                          | [susurri/asdf-koka](https://github.com/susurri/asdf-koka)                                                         |
 | Kompose                       | [technikhil314/asdf-kompose](https://github.com/technikhil314/asdf-kompose)                                       |
+| konstraint                    | [tapih/asdf-konstraint](https://github.com/tapih/asdf-konstraint)                                                 |
 | Kops                          | [Antiarchitect/asdf-kops](https://github.com/Antiarchitect/asdf-kops)                                             |
 | Kotlin                        | [asdf-community/asdf-kotlin](https://github.com/asdf-community/asdf-kotlin)                                       |
 | Kpt                           | [nlamirault/asdf-kpt](https://github.com/nlamirault/asdf-kpt)                                                     |
