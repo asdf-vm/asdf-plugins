@@ -640,6 +640,7 @@ The `asdf` core provides a [security policy](https://github.com/asdf-vm/asdf/sec
 | ripgrep                       | [wt0f/asdf-ripgrep](https://gitlab.com/wt0f/asdf-ripgrep)                                                         |
 | RKE                           | [particledecay/asdf-rke](https://github.com/particledecay/asdf-rke)                                               |
 | rome                          | [kichiemon/asdf-rome](https://github.com/kichiemon/asdf-rome)                                                     |
+| Redpanda RPK                  | [jleight/asdf-rpk](https://github.com/jleight/asdf-rpk)                                                           |
 | rstash                        | [carlduevel/asdf-rstash](https://github.com/carlduevel/asdf-rstash)                                               |
 | rlwrap                        | [asdf-community/asdf-rlwrap](https://github.com/asdf-community/asdf-rlwrap)                                       |
 | Ruby                          | [asdf-vm/asdf-ruby](https://github.com/asdf-vm/asdf-ruby)                                                         |
