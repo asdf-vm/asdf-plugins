@@ -689,6 +689,7 @@ The `asdf` core provides a [security policy](https://github.com/asdf-vm/asdf/sec
 | sqldef                        | [cometkim/asdf-sqldef](https://github.com/cometkim/asdf-sqldef)                                                   |
 | SQLite                        | [cLupus/asdf-sqlite](https://github.com/cLupus/asdf-sqlite)                                                       |
 | sshuttle                      | [xanmanning/asdf-sshuttle](https://github.com/xanmanning/asdf-sshuttle)                                           |
+| sst                           | [nurulhudaapon/asdf-sst](https://github.com/nurulhudaapon/asdf-sst)                                               |
 | Stack                         | [sestrella/asdf-ghcup](https://github.com/sestrella/asdf-ghcup)                                                   |
 | starboard                     | [zufardhiyaulhaq/asdf-starboard](https://github.com/zufardhiyaulhaq/asdf-starboard)                               |
 | Starkli                       | [ptisserand/asdf-starkli](https://github.com/ptisserand/asdf-starkli)                                             |
