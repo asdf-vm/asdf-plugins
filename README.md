@@ -227,6 +227,7 @@ The `asdf` core provides a [security policy](https://github.com/asdf-vm/asdf/sec
 | DOME                          | [jtakakura/asdf-dome](https://github.com/jtakakura/asdf-dome)                                                     |
 | doppler                       | [takutakahashi/asdf-doppler](https://github.com/takutakahashi/asdf-doppler)                                       |
 | dotenv-linter                 | [wesleimp/asdf-dotenv-linter](https://github.com/wesleimp/asdf-dotenv-linter)                                     |
+| dotenvx                       | [jgburet/asdf-dotenvx](https://github.com/jgburet/asdf-dotenvx)                                                   |
 | Dotty                         | [asdf-community/asdf-dotty](https://github.com/asdf-community/asdf-dotty)                                         |
 | dprint                        | [asdf-community/asdf-dprint](https://github.com/asdf-community/asdf-dprint)                                       |
 | Draft                         | [kristoflemmens/asdf-draft](https://github.com/kristoflemmens/asdf-draft)                                         |
