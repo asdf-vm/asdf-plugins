@@ -377,6 +377,7 @@ The `asdf` core provides a [security policy](https://github.com/asdf-vm/asdf/sec
 | Hyperfine                     | [volf52/asdf-hyperfine](https://github.com/volf52/asdf-hyperfine)                                                 |
 | iamlive                       | [chessmango/asdf-iamlive](https://github.com/chessmango/asdf-iamlive)                                             |
 | iam-policy-json-to-terraform  | [carlduevel/asdf-iam-policy-json-to-terraform](https://github.com/carlduevel/asdf-iam-policy-json-to-terraform)   |
+| IBLinter                      | [MaticConradi/asdf-iblinter](https://github.com/MaticConradi/asdf-iblinter)                                       |
 | ibmcloud                      | [triangletodd/asdf-ibmcloud](https://github.com/triangletodd/asdf-ibmcloud)                                       |
 | Idris                         | [asdf-community/asdf-idris](https://github.com/asdf-community/asdf-idris)                                         |
 | Idris2                        | [asdf-community/asdf-idris2](https://github.com/asdf-community/asdf-idris2)                                       |
