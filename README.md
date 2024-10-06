@@ -380,6 +380,7 @@ The `asdf` core provides a [security policy](https://github.com/asdf-vm/asdf/sec
 | Java                          | [halcyon/asdf-java](https://github.com/halcyon/asdf-java)                                                         |
 | jb                            | [beardix/asdf-jb](https://github.com/beardix/asdf-jb)                                                             |
 | jbang                         | [jbangdev/jbang-asdf](https://github.com/jbangdev/jbang-asdf)                                                     |
+| jet                           | [rynkowsg/asdf-jet](https://github.com/rynkowsg/asdf-jet)                                                         |
 | jetbrains                     | [asdf-community/asdf-jetbrains](https://github.com/asdf-community/asdf-jetbrains)                                 |
 | jfrog-cli                     | [LozanoMatheus/asdf-jfrog-cli](https://github.com/LozanoMatheus/asdf-jfrog-cli)                                   |
 | jib                           | [joschi/asdf-jib](https://github.com/joschi/asdf-jib)                                                             |
