@@ -452,6 +452,7 @@ The `asdf` core provides a [security policy](https://github.com/asdf-vm/asdf/sec
 | Kubelogin                     | [sechmann/asdf-kubelogin](https://github.com/sechmann/asdf-kubelogin)                                             |
 | Kubemqctl                     | [johnlayton/asdf-kubemqctl](https://github.com/johnlayton/asdf-kubemqctl)                                         |
 | kubent                        | [virtualstaticvoid/asdf-kubent](https://github.com/virtualstaticvoid/asdf-kubent)                                 |
+| kubeone                       | [PandaScience/asdf-kubeone](https://github.com/PandaScience/asdf-kubeone)                                         |
 | Kubergrunt                    | [NeoHsu/asdf-kubergrunt](https://github.com/NeoHsu/asdf-kubergrunt)                                               |
 | Kubeseal                      | [stefansedich/asdf-kubeseal](https://github.com/stefansedich/asdf-kubeseal)                                       |
 | Kubesec                       | [vitalis/asdf-kubesec](https://github.com/vitalis/asdf-kubesec)                                                   |
