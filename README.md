@@ -510,7 +510,7 @@ The `asdf` core provides a [security policy](https://github.com/asdf-vm/asdf/sec
 | Memcached                     | [furkanural/asdf-memcached](https://github.com/furkanural/asdf-memcached)                                         |
 | Mercury                       | [susurri/asdf-mercury](https://github.com/susurri/asdf-mercury)                                                   |
 | Meson                         | [asdf-community/asdf-meson](https://github.com/asdf-community/asdf-meson)                                         |
-| Micronaut                     | [weibemoura/asdf-micronaut](https://github.com/weibemoura/asdf-micronaut)                                         |
+| Micronaut                     | [xafarr/asdf-micronaut](https://github.com/xafarr/asdf-micronaut)                                                 |
 | Mill                          | [asdf-community/asdf-mill](https://github.com/asdf-community/asdf-mill)                                           |
 | mimirtool                     | [asdf-community/asdf-mimirtool](https://github.com/asdf-community/asdf-mimirtool)                                 |
 | minify                        | [axilleas/asdf-minify](https://github.com/axilleas/asdf-minify)                                                   |
