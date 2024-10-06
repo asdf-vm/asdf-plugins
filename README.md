@@ -452,7 +452,6 @@ The `asdf` core provides a [security policy](https://github.com/asdf-vm/asdf/sec
 | Kubectl                       | [asdf-community/asdf-kubectl](https://github.com/asdf-community/asdf-kubectl)                                     |
 | kubectl-bindrole              | [looztra/asdf-kubectl-bindrole](https://github.com/looztra/asdf-kubectl-bindrole)                                 |
 | kubectl-convert               | [iul1an/asdf-kubectl-convert](https://github.com/iul1an/asdf-kubectl-convert)                                     |
-| kubectl-buildkit              | [ezcater/asdf-kubectl-buildkit](https://github.com/ezcater/asdf-kubectl-buildkit)                                 |
 | kubectl-kots                  | [ganta/asdf-kubectl-kots](https://github.com/ganta/asdf-kubectl-kots)                                             |
 | kubectx                       | [wt0f/asdf-kubectx](https://gitlab.com/wt0f/asdf-kubectx)                                                         |
 | Kubefedctl                    | [kvokka/asdf-kubefedctl](https://github.com/kvokka/asdf-kubefedctl)                                               |
