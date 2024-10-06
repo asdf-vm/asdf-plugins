@@ -441,6 +441,7 @@ The `asdf` core provides a [security policy](https://github.com/asdf-vm/asdf/sec
 | kpack                         | [asdf-community/asdf-kpack-cli](https://github.com/asdf-community/asdf-kpack-cli)                                 |
 | kscript                       | [edgelevel/asdf-kscript](https://github.com/edgelevel/asdf-kscript)                                               |
 | krab                          | [ohkrab/asdf-krab](https://github.com/ohkrab/asdf-krab)                                                           |
+| krelay                        | [asdf-community/asdf-krelay](https://github.com/asdf-community/asdf-krelay)                                       |
 | krew                          | [bjw-s/asdf-krew](https://github.com/bjw-s/asdf-krew)                                                             |
 | Ksonnet                       | [Banno/asdf-ksonnet](https://github.com/Banno/asdf-ksonnet)                                                       |
 | ksops                         | [janpieper/asdf-ksops](https://github.com/janpieper/asdf-ksops)                                                   |
