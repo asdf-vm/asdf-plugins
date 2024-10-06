@@ -636,6 +636,7 @@ The `asdf` core provides a [security policy](https://github.com/asdf-vm/asdf/sec
 | regctl                        | [ORCID/asdf-regctl](https://github.com/ORCID/asdf-regctl)                                                         |
 | regsync                       | [rsrchboy/asdf-regsync](https://github.com/rsrchboy/asdf-regsync)                                                 |
 | restic                        | [xataz/asdf-restic](https://github.com/xataz/asdf-restic)                                                         |
+| resticprofile                 | [olofvndrhr/asdf-resticprofile](https://github.com/olofvndrhr/asdf-resticprofile)                                 |
 | restish                       | [polds/asdf-restish](https://github.com/polds/asdf-restish)                                                       |
 | revive                        | [bjw-s/asdf-revive](https://github.com/bjw-s/asdf-revive)                                                         |
 | richgo                        | [paxosglobal/asdf-richgo](https://github.com/paxosglobal/asdf-richgo)                                             |
