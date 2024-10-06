@@ -83,6 +83,7 @@ The `asdf` core provides a [security policy](https://github.com/asdf-vm/asdf/sec
 | atlas                         | [pbr0ck3r/asdf-atlas](https://github.com/pbr0ck3r/asdf-atlas)                                                     |
 | auth0-cli                     | [gunzy83/asdf-auth0-cli](https://github.com/gunzy83/asdf-auth0-cli)                                               |
 | auto-doc                      | [looztra/asdf-auto-doc](https://github.com/looztra/asdf-auto-doc)                                                 |
+| avalanche                     | [embtools/asdf-avalanche](https://github.com/embtools/asdf-avalanche)                                             |
 | aws-copilot                   | [NeoHsu/asdf-copilot](https://github.com/NeoHsu/asdf-copilot)                                                     |
 | aws-amplify-cli               | [LozanoMatheus/asdf-aws-amplify-cli](https://github.com/LozanoMatheus/asdf-aws-amplify-cli)                       |
 | AWS IAM authenticator         | [zekker6/asdf-aws-iam-authenticator](https://github.com/zekker6/asdf-aws-iam-authenticator)                       |
