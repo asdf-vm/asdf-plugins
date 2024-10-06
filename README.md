@@ -75,6 +75,7 @@ The `asdf` core provides a [security policy](https://github.com/asdf-vm/asdf/sec
 | argo                          | [sudermanjr/asdf-argo](https://github.com/sudermanjr/asdf-argo)                                                   |
 | argo-rollouts                 | [abatilo/asdf-argo-rollouts](https://github.com/abatilo/asdf-argo-rollouts)                                       |
 | argocd                        | [beardix/asdf-argocd](https://github.com/beardix/asdf-argocd)                                                     |
+| argocd-image-updater          | [thatmlopsguy/asdf-argocd-image-updater](https://github.com/thatmlopsguy/asdf-argocd-image-updater)               |
 | aria2                         | [asdf-community/asdf-aria2](https://github.com/asdf-community/asdf-aria2)                                         |
 | asciidoctorj                  | [gliwka/asdf-asciidoctorj](https://github.com/gliwka/asdf-asciidoctorj)                                           |
 | asdf-plugin-manager           | [asdf-community/asdf-plugin-manager](https://github.com/asdf-community/asdf-plugin-manager)                       |
