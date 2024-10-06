@@ -204,6 +204,7 @@ The `asdf` core provides a [security policy](https://github.com/asdf-vm/asdf/sec
 | Dep                           | [paxosglobal/asdf-dep](https://github.com/paxosglobal/asdf-dep)                                                   |
 | depot                         | [depot/asdf-depot](https://github.com/depot/asdf-depot)                                                           |
 | Desk                          | [endorama/asdf-desk](https://github.com/endorama/asdf-desk)                                                       |
+| devpod-cli                    | [salemgolemugoo/asdf-devpod-cli](https://github.com/salemgolemugoo/asdf-devpod-cli)                               |
 | DevSpace                      | [NeoHsu/asdf-devspace](https://github.com/NeoHsu/asdf-devspace)                                                   |
 | DevStream                     | [zhenyuanlau/asdf-dtm](https://github.com/zhenyuanlau/asdf-dtm)                                                   |
 | dhall                         | [aaaaninja/asdf-dhall](https://github.com/aaaaninja/asdf-dhall)                                                   |
