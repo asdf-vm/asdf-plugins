@@ -345,7 +345,7 @@ The `asdf` core provides a [security policy](https://github.com/asdf-vm/asdf/sec
 | grex                          | [ouest/asdf-grex](https://github.com/ouest/asdf-grex)                                                             |
 | Groovy                        | [weibemoura/asdf-groovy](https://github.com/weibemoura/asdf-groovy)                                               |
 | grpcurl                       | [asdf-community/asdf-grpcurl](https://github.com/asdf-community/asdf-grpcurl)                                     |
-| grpc-health-probe             | [zufardhiyaulhaq/asdf-grpc-health-probe](https://github.com/zufardhiyaulhaq/asdf-grpc-health-probe)               |
+| grpc-health-probe             | [DanieleIsoni/asdf-grpc-health-probe](https://github.com/DanieleIsoni/asdf-grpc-health-probe)                     |
 | grype                         | [poikilotherm/asdf-grype](https://github.com/poikilotherm/asdf-grype)                                             |
 | gum                           | [lwiechec/asdf-gum](https://github.com/lwiechec/asdf-gum)                                                         |
 | gwvault                       | [GoodwayGroup/asdf-gwvault](https://github.com/GoodwayGroup/asdf-gwvault)                                         |
