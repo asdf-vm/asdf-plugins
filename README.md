@@ -304,6 +304,7 @@ The `asdf` core provides a [security policy](https://github.com/asdf-vm/asdf/sec
 | git                           | [jcaigitlab/asdf-git](https://gitlab.com/jcaigitlab/asdf-git)                                                     |
 | git-chglog                    | [GoodwayGroup/asdf-git-chglog](https://github.com/GoodwayGroup/asdf-git-chglog)                                   |
 | git-cliff                     | [jylenhof/asdf-git-cliff](https://github.com/jylenhof/asdf-git-cliff)                                             |
+| git-lfs                       | [DanieleIsoni/asdf-git-lfs](https://github.com/DanieleIsoni/asdf-git-lfs)                                         |
 | gitconfig                     | [0ghny/asdf-gitconfig](https://github.com/0ghny/asdf-gitconfig)                                                   |
 | GitHub CLI                    | [bartlomiejdanek/asdf-github-cli](https://github.com/bartlomiejdanek/asdf-github-cli)                             |
 | GitHub Markdown ToC           | [skyzyx/asdf-github-markdown-toc](https://github.com/skyzyx/asdf-github-markdown-toc)                             |
