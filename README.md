@@ -709,6 +709,7 @@ The `asdf` core provides a [security policy](https://github.com/asdf-vm/asdf/sec
 | spotbugs                      | [jiahuili430/asdf-spotbugs](https://github.com/jiahuili430/asdf-spotbugs)                                         |
 | Spring Boot CLI               | [joschi/asdf-spring-boot](https://github.com/joschi/asdf-spring-boot)                                             |
 | Spruce                        | [woneill/asdf-spruce](https://github.com/woneill/asdf-spruce)                                                     |
+| sqlc                          | [dylanrayboss/asdf-sqlc](https://github.com/dylanrayboss/asdf-sqlc)                                               |
 | sqldef                        | [cometkim/asdf-sqldef](https://github.com/cometkim/asdf-sqldef)                                                   |
 | SQLite                        | [cLupus/asdf-sqlite](https://github.com/cLupus/asdf-sqlite)                                                       |
 | sshuttle                      | [xanmanning/asdf-sshuttle](https://github.com/xanmanning/asdf-sshuttle)                                           |
