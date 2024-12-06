@@ -497,6 +497,7 @@ The `asdf` core provides a [security policy](https://github.com/asdf-vm/asdf/sec
 | Litestream                    | [threkk/asdf-litestream](https://github.com/threkk/asdf-litestream)                                               |
 | Logtalk                       | [LogtalkDotOrg/asdf-logtalk](https://github.com/LogtalkDotOrg/asdf-logtalk)                                       |
 | Loki-Logcli                   | [comdotlinux/asdf-loki-logcli](https://github.com/comdotlinux/asdf-loki-logcli)                                   |
+| lq                            | [jylenhof/asdf-lq](https://github.com/jylenhof/asdf-lq)                                                           |
 | ls-lint                       | [ameausoone/asdf-ls-lint](https://github.com/ameausoone/asdf-ls-lint)                                             |
 | Lua                           | [Stratus3D/asdf-lua](https://github.com/Stratus3D/asdf-lua)                                                       |
 | LuaJIT                        | [smashedtoatoms/asdf-luaJIT](https://github.com/smashedtoatoms/asdf-luaJIT)                                       |
