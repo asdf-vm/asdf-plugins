@@ -266,6 +266,7 @@ The `asdf` core provides a [security policy](https://github.com/asdf-vm/asdf/sec
 | exa                           | [nyrst/asdf-exa](https://github.com/nyrst/asdf-exa)                                                               |
 | exercism                      | [bheesham/asdf-exercism](https://gitlab.com/bheesham/asdf-exercism)                                               |
 | eza                           | [lwiechec/asdf-eza](https://github.com/lwiechec/asdf-eza)                                                         |
+| falco                         | [ronnnnn/asdf-falco](https://github.com/ronnnnn/asdf-falco)                                                       |
 | fastlane                      | [mollyIV/asdf-fastlane](https://github.com/mollyIV/asdf-fastlane)                                                 |
 | fd                            | [wt0f/asdf-fd](https://gitlab.com/wt0f/asdf-fd)                                                                   |
 | FFmpeg                        | [acj/asdf-ffmpeg](https://github.com/acj/asdf-ffmpeg)                                                             |
