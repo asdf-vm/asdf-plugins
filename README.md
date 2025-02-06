@@ -627,6 +627,7 @@ The `asdf` core provides a [security policy](https://github.com/asdf-vm/asdf/sec
 | Purty                         | [nsaunders/asdf-purty](https://github.com/nsaunders/asdf-purty)                                                   |
 | Python                        | [danhper/asdf-python](https://github.com/danhper/asdf-python)                                                     |
 | q                             | [moritz-makandra/asdf-plugin-qdns](https://github.com/moritz-makandra/asdf-plugin-qdns)                           |
+| qsv                           | [vjda/asdf-qsv](https://github.com/vjda/asdf-qsv)                                                                 |
 | Quarkus CLI                   | [asdf-community/asdf-quarkus](https://github.com/asdf-community/asdf-quarkus)                                     |
 | R                             | [asdf-community/asdf-r](https://github.com/asdf-community/asdf-r)                                                 |
 | RabbitMQ                      | [w-sanches/asdf-rabbitmq](https://github.com/w-sanches/asdf-rabbitmq)                                             |
