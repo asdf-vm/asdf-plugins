@@ -114,6 +114,7 @@ The `asdf` core provides a [security policy](https://github.com/asdf-vm/asdf/sec
 | bbr-s3-config-validator       | [vmware-tanzu/tanzu-plug-in-for-asdf](https://github.com/vmware-tanzu/tanzu-plug-in-for-asdf)                     |
 | benthos                       | [benthosdev/benthos-asdf](https://github.com/benthosdev/benthos-asdf)                                             |
 | bfs                           | [virtualroot/asdf-bfs](https://github.com/virtualroot/asdf-bfs)                                                   |
+| bingo                         | [isindir/asdf-bingo](https://github.com/isindir/asdf-bingo)                                                       |
 | binnacle                      | [Traackr/asdf-binnacle](https://github.com/Traackr/asdf-binnacle)                                                 |
 | Bitwarden                     | [vixus0/asdf-bitwarden](https://github.com/vixus0/asdf-bitwarden)                                                 |
 | bitwarden-secrets-manager     | [asdf-community/asdf-bitwarden-secrets-manager](https://github.com/asdf-community/asdf-bitwarden-secrets-manager) |
