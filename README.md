@@ -848,6 +848,7 @@ The `asdf` core provides a [security policy](https://github.com/asdf-vm/asdf/sec
 | yamllint                      | [ericcornelissen/asdf-yamllint](https://github.com/ericcornelissen/asdf-yamllint)                                 |
 | yamlscript                    | [FeryET/asdf-yamlscript](https://github.com/FeryET/asdf-yamlscript)                                               |
 | Yarn                          | [twuni/asdf-yarn](https://github.com/twuni/asdf-yarn)                                                             |
+| Yasm                          | [kkHAIKE/asdf-yasm](https://github.com/kkHAIKE/asdf-yasm/)                                                        |
 | yay                           | [aaaaninja/asdf-yay](https://github.com/aaaaninja/asdf-yay)                                                       |
 | Yor                           | [ordinaryexperts/asdf-yor](https://github.com/ordinaryexperts/asdf-yor)                                           |
 | youtube-dl                    | [iul1an/asdf-youtube-dl](https://github.com/iul1an/asdf-youtube-dl)                                               |
