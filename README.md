@@ -661,6 +661,7 @@ The `asdf` core provides a [security policy](https://github.com/asdf-vm/asdf/sec
 | ruff                          | [simhem/asdf-ruff](https://github.com/simhem/asdf-ruff)                                                           |
 | Rust                          | [code-lever/asdf-rust](https://github.com/code-lever/asdf-rust)                                                   |
 | rust-analyzer                 | [Xyven1/asdf-rust-analyzer](https://github.com/Xyven1/asdf-rust-analyzer)                                         |
+| rustic                        | [jahands/asdf-rustic](https://github.com/jahands/asdf-rustic)                                                     |
 | rye                           | [Azuki-bar/asdf-rye](https://github.com/Azuki-bar/asdf-rye)                                                       |
 | saml2aws                      | [elementalvoid/asdf-saml2aws](https://github.com/elementalvoid/asdf-saml2aws)                                     |
 | SBT                           | [bram2000/asdf-sbt](https://github.com/bram2000/asdf-sbt)                                                         |
