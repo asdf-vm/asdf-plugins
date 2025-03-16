@@ -239,6 +239,7 @@ The `asdf` core provides a [security policy](https://github.com/asdf-vm/asdf/sec
 | Draft                         | [kristoflemmens/asdf-draft](https://github.com/kristoflemmens/asdf-draft)                                         |
 | Driftctl                      | [nlamirault/asdf-driftctl](https://github.com/nlamirault/asdf-driftctl)                                           |
 | drone                         | [virtualstaticvoid/asdf-drone](https://github.com/virtualstaticvoid/asdf-drone)                                   |
+| dst                           | [datasprayio/asdf-dst](https://github.com/datasprayio/asdf-dst)                                                   |
 | dt                            | [so-dang-cool/asdf-dt](https://github.com/so-dang-cool/asdf-dt)                                                   |
 | duf                           | [NeoHsu/asdf-duf](https://github.com/NeoHsu/asdf-duf)                                                             |
 | dust                          | [looztra/asdf-dust](https://github.com/looztra/asdf-dust)                                                         |
