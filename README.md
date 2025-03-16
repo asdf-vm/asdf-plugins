@@ -304,6 +304,7 @@ The `asdf` core provides a [security policy](https://github.com/asdf-vm/asdf/sec
 | GHC                           | [sestrella/asdf-ghcup](https://github.com/sestrella/asdf-ghcup)                                                   |
 | ghidra                        | [Honeypot95/asdf-ghidra](https://github.com/Honeypot95/asdf-ghidra)                                               |
 | ghorg                         | [gbloquel/asdf-ghorg](https://github.com/gbloquel/asdf-ghorg)                                                     |
+| ghostty                       | [ilvez/asdf-ghostty](https://github.com/ilvez/asdf-ghostty)                                                       |
 | ghq                           | [kajisha/asdf-ghq](https://github.com/kajisha/asdf-ghq)                                                           |
 | ginkgo                        | [jimmidyson/asdf-ginkgo](https://github.com/jimmidyson/asdf-ginkgo)                                               |
 | git                           | [jcaigitlab/asdf-git](https://gitlab.com/jcaigitlab/asdf-git)                                                     |
