@@ -731,6 +731,7 @@ The `asdf` core provides a [security policy](https://github.com/asdf-vm/asdf/sec
 | stripe-cli                    | [offbyone/asdf-stripe](https://github.com/offbyone/asdf-stripe)                                                   |
 | stylua                        | [jc00ke/asdf-stylua](https://github.com/jc00ke/asdf-stylua)                                                       |
 | sui                           | [placeholder-soft/asdf-sui](https://github.com/placeholder-soft/asdf-sui)                                         |
+| supabase-cli                  | [gavinying/asdf-supabase-cli](https://github.com/gavinying/asdf-supabase-cli)                                     |
 | sver                          | [robzr/asdf-sver](https://github.com/robzr/asdf-sver)                                                             |
 | svu                           | [asdf-community/asdf-svu](https://github.com/asdf-community/asdf-svu)                                             |
 | swag                          | [behoof4mind/asdf-swag](https://github.com/behoof4mind/asdf-swag)                                                 |
