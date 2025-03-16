@@ -762,7 +762,7 @@ The `asdf` core provides a [security policy](https://github.com/asdf-vm/asdf/sec
 | terraform-lsp                 | [bartlomiejdanek/asdf-terraform-lsp](https://github.com/bartlomiejdanek/asdf-terraform-lsp)                       |
 | Terraform-validator           | [looztra/asdf-terraform-validator](https://github.com/looztra/asdf-terraform-validator)                           |
 | Terraformer                   | [gr1m0h/asdf-terraformer](https://github.com/gr1m0h/asdf-terraformer)                                             |
-| Terragrunt                    | [ohmer/asdf-terragrunt](https://github.com/ohmer/asdf-terragrunt)                                                 |
+| Terragrunt                    | [gruntwork-io/asdf-terragrunt](https://github.com/gruntwork-io/asdf-terragrunt)                                   |
 | Terramate                     | [martinlindner/asdf-terramate](https://github.com/martinlindner/asdf-terramate)                                   |
 | Terrascan                     | [hpdobrica/asdf-terrascan](https://github.com/hpdobrica/asdf-terrascan)                                           |
 | tf (hashi terraform wrapper)  | [dex4er/asdf-tf](https://github.com/dex4er/asdf-tf)                                                               |
