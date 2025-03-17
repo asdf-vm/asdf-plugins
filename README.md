@@ -107,7 +107,7 @@ The `asdf` core provides a [security policy](https://github.com/asdf-vm/asdf/sec
 | balena-cli                    | [boatkit-io/asdf-balena-cli](https://github.com/boatkit-io/asdf-balena-cli)                                       |
 | bashbot                       | [mathew-fleisch/asdf-bashbot](https://github.com/mathew-fleisch/asdf-bashbot)                                     |
 | bashly                        | [pcrockett/asdf-bashly](https://github.com/pcrockett/asdf-bashly)                                                 |
-| bat                           | [wt0f/asdf-bat](https://gitlab.com/wt0f/asdf-bat)                                                                 |
+| bat                           | [pauloedurezende/asdf-bat](https://github.com/pauloedurezende/asdf-bat)                                           |
 | bat-extras                    | [vhdirk/asdf-bat-extras](https://github.com/vhdirk/asdf-bat-extras)                                               |
 | Batect                        | [johnlayton/asdf-batect](https://github.com/johnlayton/asdf-batect)                                               |
 | Bats (Bash unittest)          | [timgluz/asdf-bats](https://github.com/timgluz/asdf-bats)                                                         |
@@ -805,7 +805,7 @@ The `asdf` core provides a [security policy](https://github.com/asdf-vm/asdf/sec
 | Tinytex                       | [Fbrisset/asdf-tinytex](https://github.com/Fbrisset/asdf-tinytex)                                                 |
 | Titan                         | [gabitchov/asdf-titan](https://github.com/gabitchov/asdf-titan)                                                   |
 | tlsg-cli                      | [0ghny/asdf-tlsgcli](https://github.com/0ghny/asdf-tlsgcli)                                                       |
-| Tmux                          | [aphecetche/asdf-tmux](https://github.com/aphecetche/asdf-tmux)                                                   |
+| Tmux                          | [pauloedurezende/asdf-tmux](https://github.com/pauloedurezende/asdf-tmux)                                         |
 | Tokei                         | [gasuketsu/asdf-tokei](https://github.com/gasuketsu/asdf-tokei)                                                   |
 | tomcat                        | [asdf-community/asdf-tomcat](https://github.com/asdf-community/asdf-tomcat)                                       |
 | tonnage                       | [elementalvoid/asdf-tonnage](https://github.com/elementalvoid/asdf-tonnage)                                       |
