@@ -700,6 +700,7 @@ The `asdf` core provides a [security policy](https://github.com/asdf-vm/asdf/sec
 | Shellspec                     | [poikilotherm/asdf-shellspec](https://github.com/poikilotherm/asdf-shellspec)                                     |
 | Shfmt                         | [luizm/asdf-shfmt](https://github.com/luizm/asdf-shfmt)                                                           |
 | Shorebird                     | [valian-ca/asdf-shorebird](https://github.com/valian-ca/asdf-shorebird)                                           |
+| signal-cli                    | [ehsash/asdf-signal-cli](https://github.com/ehsash/asdf-signal-cli)                                               |
 | Sinker                        | [elementalvoid/asdf-sinker](https://github.com/elementalvoid/asdf-sinker)                                         |
 | Skaffold                      | [nklmilojevic/asdf-skaffold](https://github.com/nklmilojevic/asdf-skaffold)                                       |
 | skate                         | [chessmango/asdf-skate](https://github.com/chessmango/asdf-skate)                                                 |
