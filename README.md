@@ -60,6 +60,7 @@ The `asdf` core provides a [security policy](https://github.com/asdf-vm/asdf/sec
 | air                           | [pdemagny/asdf-air](https://github.com/pdemagny/asdf-air)                                                         |
 | aks-engine                    | [robsonpeixoto/asdf-aks-engine](https://github.com/robsonpeixoto/asdf-aks-engine)                                 |
 | alias                         | [andrewthauer/asdf-alias](https://github.com/andrewthauer/asdf-alias)                                             |
+| alire                         | [NyanHelsing/asdf-alire](https://github.com/NyanHelsing/asdf-alire)                                               |
 | allure                        | [comdotlinux/asdf-allure](https://github.com/comdotlinux/asdf-allure)                                             |
 | alp                           | [asdf-community/asdf-alp](https://github.com/asdf-community/asdf-alp)                                             |
 | amass                         | [dhoeric/asdf-amass](https://github.com/dhoeric/asdf-amass)                                                       |
