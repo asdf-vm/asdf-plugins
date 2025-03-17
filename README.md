@@ -141,7 +141,7 @@ The `asdf` core provides a [security policy](https://github.com/asdf-vm/asdf/sec
 | cairo-coverage                | [software-mansion/asdf-cairo-coverage](https://github.com/software-mansion/asdf-cairo-coverage)                   |
 | cairo-profiler                | [software-mansion/asdf-cairo-profiler](https://github.com/software-mansion/asdf-cairo-profiler)                   |
 | CalendarSync                  | [FeryET/asdf-calendarsync](https://github.com/FeryET/asdf-calendarsync)                                           |
-| Calicoctl                     | [FairwindsOps/asdf-calicoctl](https://github.com/FairwindsOps/asdf-calicoctl)                                     |
+| calicoctl                     | [teejaded/asdf-calicoctl](https://github.com/teejaded/asdf-calicoctl)                                             |
 | Camunda Modeler               | [barmac/asdf-camunda-modeler](https://github.com/barmac/asdf-camunda-modeler)                                     |
 | cargo-make                    | [mise-plugins/asdf-cargo-make](https://github.com/mise-plugins/asdf-cargo-make)                                   |
 | Carp                          | [susurri/asdf-carp](https://github.com/susurri/asdf-carp)                                                         |
