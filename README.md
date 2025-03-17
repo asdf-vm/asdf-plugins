@@ -278,6 +278,7 @@ The `asdf` core provides a [security policy](https://github.com/asdf-vm/asdf/sec
 | falco                         | [ronnnnn/asdf-falco](https://github.com/ronnnnn/asdf-falco)                                                       |
 | fastlane                      | [mollyIV/asdf-fastlane](https://github.com/mollyIV/asdf-fastlane)                                                 |
 | fd                            | [wt0f/asdf-fd](https://gitlab.com/wt0f/asdf-fd)                                                                   |
+| ffizer                        | [ffizer/asdf-ffizer](https://github.com/ffizer/asdf-ffizer)                                                       |
 | FFmpeg                        | [acj/asdf-ffmpeg](https://github.com/acj/asdf-ffmpeg)                                                             |
 | figma-export                  | [younke/asdf-figma-export](https://github.com/younke/asdf-figma-export)                                           |
 | fillin                        | [ouest/asdf-fillin](https://github.com/ouest/asdf-fillin)                                                         |
