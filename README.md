@@ -768,6 +768,7 @@ The `asdf` core provides a [security policy](https://github.com/asdf-vm/asdf/sec
 | Tanka                         | [trotttrotttrott/asdf-tanka](https://github.com/trotttrotttrott/asdf-tanka)                                       |
 | Tanzu CLI (tanzu)             | [vmware-tanzu/tanzu-plug-in-for-asdf](https://github.com/vmware-tanzu/tanzu-plug-in-for-asdf)                     |
 | Task                          | [particledecay/asdf-task](https://github.com/particledecay/asdf-task)                                             |
+| tbls                          | [xcapaldi/asdf-tbls](https://github.com/xcapaldi/asdf-tbls)
 | tctl                          | [eko/asdf-tctl](https://github.com/eko/asdf-tctl)                                                                 |
 | Tekton-cli                    | [johnhamelink/asdf-tekton-cli](https://github.com/johnhamelink/asdf-tekton-cli)                                   |
 | Tekton pipeline-as-code CLI   | [ifireball/asdf-tekton-pac-cli](https://github.com/ifireball/asdf-tekton-pac-cli)                                 |
