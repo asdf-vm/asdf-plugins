@@ -204,6 +204,7 @@ The `asdf` core provides a [security policy](https://github.com/asdf-vm/asdf/sec
 | Crystal                       | [asdf-community/asdf-crystal](https://github.com/asdf-community/asdf-crystal)                                     |
 | ctop                          | [NeoHsu/asdf-ctop](https://github.com/NeoHsu/asdf-ctop)                                                           |
 | CUE                           | [asdf-community/asdf-cue](https://github.com/asdf-community/asdf-cue)                                             |
+| Cyber                         | [jtakakura/asdf-cyber](https://github.com/jtakakura/asdf-cyber)                                                   |
 | cyclonedx                     | [xeedio/asdf-cyclonedx](https://github.com/xeedio/asdf-cyclonedx)                                                 |
 | D (DMD)                       | [sylph01/asdf-dmd](https://github.com/sylph01/asdf-dmd)                                                           |
 | dagger                        | [virtualstaticvoid/asdf-dagger](https://github.com/virtualstaticvoid/asdf-dagger)                                 |
