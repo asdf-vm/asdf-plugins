@@ -497,7 +497,7 @@ The `asdf` core provides a [security policy](https://github.com/asdf-vm/asdf/sec
 | kwt                           | [vmware-tanzu/asdf-carvel](https://github.com/vmware-tanzu/asdf-carvel)                                           |
 | lab                           | [particledecay/asdf-lab](https://github.com/particledecay/asdf-lab)                                               |
 | lane                          | [CodeReaper/asdf-lane](https://github.com/CodeReaper/asdf-lane)                                                   |
-| lambroll                      | [miztch/asdf-lambroll](https://github.com/miztch/asdf-lambroll)                                                        |
+| lambroll                      | [miztch/asdf-lambroll](https://github.com/miztch/asdf-lambroll)                                                   |
 | launchpad                     | [surskitt/asdf-launchpad](https://github.com/surskitt/asdf-launchpad)                                             |
 | lazygit                       | [nklmilojevic/asdf-lazygit](https://github.com/nklmilojevic/asdf-lazygit)                                         |
 | Lean                          | [asdf-community/asdf-lean](https://github.com/asdf-community/asdf-lean)                                           |
