@@ -584,6 +584,7 @@ The `asdf` core provides a [security policy](https://github.com/asdf-vm/asdf/sec
 | Okteto                        | [BradenM/asdf-okteto](https://github.com/BradenM/asdf-okteto)                                                     |
 | ollama                        | [virtualstaticvoid/asdf-ollama](https://github.com/virtualstaticvoid/asdf-ollama)                                 |
 | om                            | [vmware-tanzu/tanzu-plug-in-for-asdf](https://github.com/vmware-tanzu/tanzu-plug-in-for-asdf)                     |
+| omnictl                       | [alongwill/asdf-omnictl](https://github.com/alongwill/asdf-omnictl)                                               |
 | Onyx                          | [jtakakura/asdf-onyx](https://github.com/jtakakura/asdf-onyx)                                                     |
 | OPA                           | [tochukwuvictor/asdf-opa](https://github.com/tochukwuvictor/asdf-opa)                                             |
 | Opam                          | [asdf-community/asdf-opam](https://github.com/asdf-community/asdf-opam)                                           |
