@@ -165,6 +165,7 @@ The `asdf` core provides a [security policy](https://github.com/asdf-vm/asdf/sec
 | Chromedriver                  | [schinckel/asdf-chromedriver](https://github.com/schinckel/asdf-chromedriver)                                     |
 | cilium-cli                    | [carnei-ro/asdf-cilium-cli](https://github.com/carnei-ro/asdf-cilium-cli)                                         |
 | cilium-hubble                 | [NitriKx/asdf-cilium-hubble](https://github.com/NitriKx/asdf-cilium-hubble)                                       |
+| clang-tools                   | [cpp-linter/asdf-clang-tools](https://github.com/cpp-linter/asdf-clang-tools)                                     |
 | Clarinet                      | [alexgo-io/asdf-clarinet](https://github.com/alexgo-io/asdf-clarinet)                                             |
 | clj-kondo                     | [rynkowsg/asdf-clj-kondo](https://github.com/rynkowsg/asdf-clj-kondo)                                             |
 | cljstyle                      | [abogoyavlensky/asdf-cljstyle](https://github.com/abogoyavlensky/asdf-cljstyle)                                   |
