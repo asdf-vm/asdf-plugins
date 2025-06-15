@@ -120,6 +120,7 @@ The `asdf` core provides a [security policy](https://github.com/asdf-vm/asdf/sec
 | Binaryen                      | [cometkim/asdf-binaryen](https://github.com/cometkim/asdf-binaryen)                                               |
 | bingo                         | [isindir/asdf-bingo](https://github.com/isindir/asdf-bingo)                                                       |
 | binnacle                      | [Traackr/asdf-binnacle](https://github.com/Traackr/asdf-binnacle)                                                 |
+| Biome                         | [angellist/asdf-biome](https://github.com/angellist/asdf-biome)                                                   |
 | Bitwarden                     | [vixus0/asdf-bitwarden](https://github.com/vixus0/asdf-bitwarden)                                                 |
 | bitwarden-secrets-manager     | [asdf-community/asdf-bitwarden-secrets-manager](https://github.com/asdf-community/asdf-bitwarden-secrets-manager) |
 | boilerplate                   | [gruntwork-io/asdf-boilerplate](https://github.com/gruntwork-io/asdf-boilerplate)                                 |
