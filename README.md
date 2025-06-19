@@ -122,6 +122,7 @@ The `asdf` core provides a [security policy](https://github.com/asdf-vm/asdf/sec
 | binnacle                      | [Traackr/asdf-binnacle](https://github.com/Traackr/asdf-binnacle)                                                 |
 | Bitwarden                     | [vixus0/asdf-bitwarden](https://github.com/vixus0/asdf-bitwarden)                                                 |
 | bitwarden-secrets-manager     | [asdf-community/asdf-bitwarden-secrets-manager](https://github.com/asdf-community/asdf-bitwarden-secrets-manager) |
+| bkl                           | [fredsmith/asdf-bkl](https://github.com/fredsmith/asdf-bkl)                                                       |
 | boilerplate                   | [gruntwork-io/asdf-boilerplate](https://github.com/gruntwork-io/asdf-boilerplate)                                 |
 | Bombardier                    | [NeoHsu/asdf-bombardier](https://github.com/NeoHsu/asdf-bombardier)                                               |
 | borg                          | [lwiechec/asdf-borg](https://github.com/lwiechec/asdf-borg)                                                       |
