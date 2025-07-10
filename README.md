@@ -246,6 +246,7 @@ The `asdf` core provides a [security policy](https://github.com/asdf-vm/asdf/sec
 | drone                         | [virtualstaticvoid/asdf-drone](https://github.com/virtualstaticvoid/asdf-drone)                                   |
 | dst                           | [datasprayio/asdf-dst](https://github.com/datasprayio/asdf-dst)                                                   |
 | dt                            | [so-dang-cool/asdf-dt](https://github.com/so-dang-cool/asdf-dt)                                                   |
+| dua                           | [xyb/asdf-dua](https://github.com/xyb/asdf-dua)                                                                   |
 | duf                           | [NeoHsu/asdf-duf](https://github.com/NeoHsu/asdf-duf)                                                             |
 | dust                          | [looztra/asdf-dust](https://github.com/looztra/asdf-dust)                                                         |
 | DVC                           | [fwfurtado/asdf-dvc](https://github.com/fwfurtado/asdf-dvc)                                                       |
