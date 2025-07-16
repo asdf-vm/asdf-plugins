@@ -468,6 +468,7 @@ The `asdf` core provides a [security policy](https://github.com/asdf-vm/asdf/sec
 | kube-credential-cache         | [ryodocx/kube-credential-cache](https://github.com/ryodocx/kube-credential-cache)                                 |
 | kube-linter                   | [devlincashman/asdf-kube-linter](https://github.com/devlincashman/asdf-kube-linter)                               |
 | kube-score                    | [bageljp/asdf-kube-score](https://github.com/bageljp/asdf-kube-score)                                             |
+| kubebench                     | [sarg3nt/asdf-kubebench](https://github.com/sarg3nt/asdf-kube-bench)                                              |
 | kubebuilder                   | [virtualstaticvoid/asdf-kubebuilder](https://github.com/virtualstaticvoid/asdf-kubebuilder)                       |
 | kubecm                        | [samhvw8/asdf-kubecm](https://github.com/samhvw8/asdf-kubecm)                                                     |
 | kubecolor                     | [dex4er/asdf-kubecolor](https://github.com/dex4er/asdf-kubecolor)                                                 |
@@ -535,6 +536,7 @@ The `asdf` core provides a [security policy](https://github.com/asdf-vm/asdf/sec
 | Memcached                     | [furkanural/asdf-memcached](https://github.com/furkanural/asdf-memcached)                                         |
 | Mercury                       | [susurri/asdf-mercury](https://github.com/susurri/asdf-mercury)                                                   |
 | Meson                         | [asdf-community/asdf-meson](https://github.com/asdf-community/asdf-meson)                                         |
+| Micro                         | [sarg3nt/asdf-micro](https://github.com/sarg3nt/asdf-micro)                                                       |
 | Micronaut                     | [xafarr/asdf-micronaut](https://github.com/xafarr/asdf-micronaut)                                                 |
 | Mill                          | [asdf-community/asdf-mill](https://github.com/asdf-community/asdf-mill)                                           |
 | mimirtool                     | [asdf-community/asdf-mimirtool](https://github.com/asdf-community/asdf-mimirtool)                                 |
@@ -769,6 +771,7 @@ The `asdf` core provides a [security policy](https://github.com/asdf-vm/asdf/sec
 | Tanzu CLI (tanzu)             | [vmware-tanzu/tanzu-plug-in-for-asdf](https://github.com/vmware-tanzu/tanzu-plug-in-for-asdf)                     |
 | Task                          | [particledecay/asdf-task](https://github.com/particledecay/asdf-task)                                             |
 | tctl                          | [eko/asdf-tctl](https://github.com/eko/asdf-tctl)                                                                 |
+| tealdeer                      | [sarg3/asdf-tealdeer](https://github.com/sarg3nt/asdf-tealdeer)                                                   |
 | Tekton-cli                    | [johnhamelink/asdf-tekton-cli](https://github.com/johnhamelink/asdf-tekton-cli)                                   |
 | Tekton pipeline-as-code CLI   | [ifireball/asdf-tekton-pac-cli](https://github.com/ifireball/asdf-tekton-pac-cli)                                 |
 | Teleport Enterprise           | [highb/asdf-teleport-ent](https://github.com/highb/asdf-teleport-ent)                                             |
