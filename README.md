@@ -643,7 +643,7 @@ The `asdf` core provides a [security policy](https://github.com/asdf-vm/asdf/sec
 | PureScript                    | [jrrom/asdf-purescript](https://github.com/jrrom/asdf-purescript)                                                 |
 | Purty                         | [nsaunders/asdf-purty](https://github.com/nsaunders/asdf-purty)                                                   |
 | Python                        | [danhper/asdf-python](https://github.com/danhper/asdf-python)                                                     |
-| q                             | [moritz-makandra/asdf-plugin-qdns](https://github.com/moritz-makandra/asdf-plugin-qdns)                           |
+| q                             | [eheinle-mak/asdf-plugin-qdns](https://github.com/eheinle-mak/asdf-plugin-qdns)                                   |
 | qsv                           | [vjda/asdf-qsv](https://github.com/vjda/asdf-qsv)                                                                 |
 | Quarkus CLI                   | [asdf-community/asdf-quarkus](https://github.com/asdf-community/asdf-quarkus)                                     |
 | R                             | [asdf-community/asdf-r](https://github.com/asdf-community/asdf-r)                                                 |
