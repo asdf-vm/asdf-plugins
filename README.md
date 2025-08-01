@@ -363,7 +363,6 @@ The `asdf` core provides a [security policy](https://github.com/asdf-vm/asdf/sec
 | gum                           | [lwiechec/asdf-gum](https://github.com/lwiechec/asdf-gum)                                                         |
 | gwvault                       | [GoodwayGroup/asdf-gwvault](https://github.com/GoodwayGroup/asdf-gwvault)                                         |
 | hadolint                      | [devlincashman/asdf-hadolint](https://github.com/devlincashman/asdf-hadolint)                                     |
-| Hamler                        | [scudelletti/asdf-hamler](https://github.com/scudelletti/asdf-hamler)                                             |
 | has                           | [sylvainmetayer/asdf-has](https://github.com/sylvainmetayer/asdf-has)                                             |
 | Haskell                       | [asdf-community/asdf-haskell](https://github.com/asdf-community/asdf-haskell)                                     |
 | Haskell Language Server (HLS) | [sestrella/asdf-ghcup](https://github.com/sestrella/asdf-ghcup)                                                   |
