@@ -851,6 +851,7 @@ The `asdf` core provides a [security policy](https://github.com/asdf-vm/asdf/sec
 | wasm3                         | [tachyonicbytes/asdf-wasm3](https://github.com/tachyonicbytes/asdf-wasm3)                                         |
 | wasmer                        | [tachyonicbytes/asdf-wasmer](https://github.com/tachyonicbytes/asdf-wasmer)                                       |
 | wasmtime                      | [tachyonicbytes/asdf-wasmtime](https://github.com/tachyonicbytes/asdf-wasmtime)                                   |
+| wasp                          | [wasp-lang/asdf-wasp](https://github.com/wasp-lang/asdf-wasp)                                                     |
 | Waypoint                      | [asdf-community/asdf-hashicorp](https://github.com/asdf-community/asdf-hashicorp)                                 |
 | weave-gitops                  | [deas/asdf-weave-gitops](https://github.com/deas/asdf-weave-gitops)                                               |
 | Websocat                      | [bdellegrazie/asdf-websocat](https://github.com/bdellegrazie/asdf-websocat)                                       |
