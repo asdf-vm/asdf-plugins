@@ -519,6 +519,7 @@ The `asdf` core provides a [security policy](https://github.com/asdf-vm/asdf/sec
 | LuaJIT                        | [smashedtoatoms/asdf-luaJIT](https://github.com/smashedtoatoms/asdf-luaJIT)                                       |
 | lua-language-server           | [bellini666/asdf-lua-language-server](https://github.com/bellini666/asdf-lua-language-server)                     |
 | Lucy                          | [cometkim/asdf-lucy](https://github.com/cometkim/asdf-lucy)                                                       |
+| Lychee                        | [robertbagge/asdf-lychee](https://github.com/robertbagge/asdf-lychee)                                                       |
 | maestro                       | [dotanuki-labs/asdf-maestro](https://github.com/dotanuki-labs/asdf-maestro)                                       |
 | mage                          | [mathew-fleisch/asdf-mage](https://github.com/mathew-fleisch/asdf-mage)                                           |
 | make                          | [yacchi/asdf-make](https://github.com/yacchi/asdf-make)                                                           |
