@@ -274,7 +274,7 @@ The `asdf` core provides a [security policy](https://github.com/asdf-vm/asdf/sec
 | Evans                         | [goki90210/asdf-evans](https://github.com/goki90210/asdf-evans)                                                   |
 | exa                           | [nyrst/asdf-exa](https://github.com/nyrst/asdf-exa)                                                               |
 | exercism                      | [bheesham/asdf-exercism](https://gitlab.com/bheesham/asdf-exercism)                                               |
-| eza                           | [lwiechec/asdf-eza](https://github.com/lwiechec/asdf-eza)                                                         |
+| eza                           | [pauloedurezende/asdf-eza](https://github.com/pauloedurezende/asdf-eza)                                           |
 | falco                         | [ronnnnn/asdf-falco](https://github.com/ronnnnn/asdf-falco)                                                       |
 | fastlane                      | [mollyIV/asdf-fastlane](https://github.com/mollyIV/asdf-fastlane)                                                 |
 | fd                            | [wt0f/asdf-fd](https://gitlab.com/wt0f/asdf-fd)                                                                   |
@@ -298,7 +298,7 @@ The `asdf` core provides a [security policy](https://github.com/asdf-vm/asdf/sec
 | func-e                        | [carnei-ro/asdf-func-e](https://github.com/carnei-ro/asdf-func-e)                                                 |
 | Furyctl                       | [sighupio/asdf-furyctl](https://github.com/sighupio/asdf-furyctl)                                                 |
 | fx                            | [wt0f/asdf-fx](https://gitlab.com/wt0f/asdf-fx)                                                                   |
-| fzf                           | [kompiro/asdf-fzf](https://github.com/kompiro/asdf-fzf)                                                           |
+| fzf                           | [pauloedurezende/asdf-fzf](https://github.com/pauloedurezende/asdf-fzf)                                           |
 | Gauche                        | [sakuro/asdf-gauche](https://github.com/sakuro/asdf-gauche)                                                       |
 | gallery-dl                    | [iul1an/asdf-gallery-dl](https://github.com/iul1an/asdf-gallery-dl)                                               |
 | gam                           | [offbyone/asdf-gam](https://github.com/offbyone/asdf-gam)                                                         |
@@ -885,5 +885,5 @@ The `asdf` core provides a [security policy](https://github.com/asdf-vm/asdf/sec
 | zigmod                        | [mise-plugins/asdf-zigmod](https://github.com/mise-plugins/asdf-zigmod)                                           |
 | zls                           | [miome/asdf-zls](https://github.com/m1ome/asdf-zls)                                                               |
 | Zola                          | [salasrod/asdf-zola](https://github.com/salasrod/asdf-zola)                                                       |
-| zoxide                        | [nyrst/asdf-zoxide](https://github.com/nyrst/asdf-zoxide)                                                         |
+| zoxide                        | [pauloedurezende/asdf-zoxide](https://github.com/pauloedurezende/asdf-zoxide)                                     |
 | zprint                        | [carlduevel/asdf-zprint](https://github.com/carlduevel/asdf-zprint)                                               |
