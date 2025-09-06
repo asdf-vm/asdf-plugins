@@ -619,6 +619,7 @@ The `asdf` core provides a [security policy](https://github.com/asdf-vm/asdf/sec
 | Please                        | [asdf-community/asdf-please](https://github.com/asdf-community/asdf-please)                                       |
 | Pluto                         | [FairwindsOps/asdf-pluto](https://github.com/FairwindsOps/asdf-pluto)                                             |
 | pnpm                          | [jonathanmorley/asdf-pnpm](https://github.com/jonathanmorley/asdf-pnpm)                                           |
+| Podman                        | [bgaillard/asdf-podman](https://github.com/bgaillard/asdf-podman)                                       |
 | Poetry                        | [asdf-community/asdf-poetry](https://github.com/asdf-community/asdf-poetry)                                       |
 | Polaris                       | [particledecay/asdf-polaris](https://github.com/particledecay/asdf-polaris)                                       |
 | Popeye                        | [nlamirault/asdf-popeye](https://github.com/nlamirault/asdf-popeye)                                               |
