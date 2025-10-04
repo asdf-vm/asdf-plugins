@@ -489,6 +489,7 @@ The `asdf` core provides a [security policy](https://github.com/asdf-vm/asdf/sec
 | Kubesec                       | [vitalis/asdf-kubesec](https://github.com/vitalis/asdf-kubesec)                                                   |
 | kubeshark                     | [carnei-ro/asdf-kubeshark](https://github.com/carnei-ro/asdf-kubeshark)                                           |
 | kubespy                       | [jfreeland/asdf-kubespy](https://github.com/jfreeland/asdf-kubespy)                                               |
+| kubetail                      | [kubetail-org/kubetail](https://github.com/kubetail-org/asdf-kubetail)                                            |
 | Kubeval                       | [stefansedich/asdf-kubeval](https://github.com/stefansedich/asdf-kubeval)                                         |
 | KubeVela                      | [gustavclausen/asdf-kubevela](https://github.com/gustavclausen/asdf-kubevela)                                     |
 | Kubie                         | [johnhamelink/asdf-kubie](https://github.com/johnhamelink/asdf-kubie)                                             |
