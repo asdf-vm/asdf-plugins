@@ -66,6 +66,7 @@ The `asdf` core provides a [security policy](https://github.com/asdf-vm/asdf/sec
 | amass                         | [dhoeric/asdf-amass](https://github.com/dhoeric/asdf-amass)                                                       |
 | Amazon ECR Credential Helper  | [dex4er/asdf-amazon-ecr-credential-helper](https://github.com/dex4er/asdf-amazon-ecr-credential-helper)           |
 | Ambient                       | [jtakakura/asdf-ambient](https://github.com/jtakakura/asdf-ambient)                                               |
+| angular-cli                   | [dainer88/asdf-angular-cli](https://github.com/dainer88/asdf-angular-cli)                                         |
 | Ansible (ansible-base)        | [amrox/asdf-pyapp](https://github.com/amrox/asdf-pyapp)                                                           |
 | ant                           | [jackboespflug/asdf-ant](https://github.com/jackboespflug/asdf-ant)                                               |
 | Apache Jmeter                 | [comdotlinux/asdf-jmeter](https://github.com/comdotlinux/asdf-jmeter)                                             |
