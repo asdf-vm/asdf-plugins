@@ -796,6 +796,7 @@ The `asdf` core provides a [security policy](https://github.com/asdf-vm/asdf/sec
 | tfmigrate                     | [dex4er/asdf-tfmigrate](https://github.com/dex4er/asdf-tfmigrate)                                                 |
 | tfnotify                      | [jnavarrof/asdf-tfnotify](https://github.com/jnavarrof/asdf-tfnotify)                                             |
 | TFSec                         | [woneill/asdf-tfsec](https://github.com/woneill/asdf-tfsec)                                                       |
+| tfsort                        | [davidjeddy/asdf-tfsort](https://github.com/davidjeddy/asdf-tfsort)                                               |
 | tfstate-lookup                | [carnei-ro/asdf-tfstate-lookup](https://github.com/carnei-ro/asdf-tfstate-lookup)                                 |
 | tfswitch                      | [iul1an/asdf-tfswitch](https://github.com/iul1an/asdf-tfswitch)                                                   |
 | tfupdate                      | [yuokada/asdf-tfupdate](https://github.com/yuokada/asdf-tfupdate)                                                 |
