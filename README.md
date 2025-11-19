@@ -786,6 +786,7 @@ The `asdf` core provides a [security policy](https://github.com/asdf-vm/asdf/sec
 | Terraformer                   | [gr1m0h/asdf-terraformer](https://github.com/gr1m0h/asdf-terraformer)                                             |
 | Terragrunt                    | [gruntwork-io/asdf-terragrunt](https://github.com/gruntwork-io/asdf-terragrunt)                                   |
 | Terramate                     | [martinlindner/asdf-terramate](https://github.com/martinlindner/asdf-terramate)                                   |
+| Terramate Catalyst            | [terramate-io/asdf-terramate-catalyst](https://github.com/terramate-io/asdf-terramate-catalyst)                   |
 | Terrascan                     | [hpdobrica/asdf-terrascan](https://github.com/hpdobrica/asdf-terrascan)                                           |
 | tf (hashi terraform wrapper)  | [dex4er/asdf-tf](https://github.com/dex4er/asdf-tf)                                                               |
 | tfcmt                         | [nasa9084/asdf-tfcmt](https://github.com/nasa9084/asdf-tfcmt)                                                     |
