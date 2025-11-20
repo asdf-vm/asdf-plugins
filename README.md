@@ -179,6 +179,7 @@ The `asdf` core provides a [security policy](https://github.com/asdf-vm/asdf/sec
 | CocoaPods                     | [ronnnnn/asdf-cocoapods](https://github.com/ronnnnn/asdf-cocoapods)                                               |
 | Codefresh                     | [gurukulkarni/asdf-codefresh](https://github.com/gurukulkarni/asdf-codefresh)                                     |
 | CodeQL                        | [bored-engineer/asdf-codeql](https://github.com/bored-engineer/asdf-codeql)                                       |
+| codex                         | [TimothyMerlin/asdf-codex](https://github.com/TimothyMerlin/asdf-codex)                                           |
 | Colima                        | [CrouchingMuppet/asdf-colima](https://github.com/CrouchingMuppet/asdf-colima)                                     |
 | coredns                       | [s3than/asdf-coredns](https://github.com/s3than/asdf-coredns)                                                     |
 | Conan                         | [amrox/asdf-pyapp](https://github.com/amrox/asdf-pyapp)                                                           |
