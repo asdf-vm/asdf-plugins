@@ -386,6 +386,7 @@ The `asdf` core provides a [security policy](https://github.com/asdf-vm/asdf/sec
 | hishtory                      | [asdf-community/asdf-hishtory](https://github.com/asdf-community/asdf-hishtory)                                   |
 | hledger                       | [airtonix/hledger](https://github.com/airtonix/asdf-hledger)                                                      |
 | hledger-flow                  | [airtonix/hledger-flow](https://github.com/airtonix/asdf-hledger-flow)                                            |
+| Homebrew-PHP                  | [naviapps/asdf-homebrew-php](https://github.com/naviapps/asdf-homebrew-php)                                       |
 | hostctl                       | [svenluijten/asdf-hostctl](https://github.com/svenluijten/asdf-hostctl)                                           |
 | httpie-go                     | [abatilo/asdf-httpie-go](https://github.com/abatilo/asdf-httpie-go)                                               |
 | Hub                           | [claygorman/asdf-hub](https://github.com/claygorman/asdf-hub)                                                     |
