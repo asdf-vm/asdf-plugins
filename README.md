@@ -604,6 +604,7 @@ The `asdf` core provides a [security policy](https://github.com/asdf-vm/asdf/sec
 | pandoc-crossref               | [sys9kdr/asdf-pandoc-crossref](https://github.com/sys9kdr/asdf-pandoc-crossref)                                   |
 | patat                         | [airtonix/asdf-patat](https://github.com/airtonix/asdf-patat)                                                     |
 | peco                          | [asdf-community/asdf-peco](https://github.com/asdf-community/asdf-peco)                                           |
+| pdftk                         | [lakshanwd/asdf-pdftk](https://github.com/lakshanwd/asdf-pdftk)                                                   |
 | pdm                           | [1oglop1/asdf-pdm](https://github.com/1oglop1/asdf-pdm)                                                           |
 | Perl                          | [ouest/asdf-perl](https://github.com/ouest/asdf-perl)                                                             |
 | PHP                           | [asdf-community/asdf-php](https://github.com/asdf-community/asdf-php)                                             |
