@@ -652,6 +652,7 @@ The `asdf` core provides a [security policy](https://github.com/asdf-vm/asdf/sec
 | Raku                          | [m-dango/asdf-raku](https://github.com/m-dango/asdf-raku)                                                         |
 | Rancher                       | [abinet/asdf-rancher](https://github.com/abinet/asdf-rancher)                                                     |
 | Rbac-lookup                   | [looztra/asdf-rbac-lookup](https://github.com/looztra/asdf-rbac-lookup)                                           |
+| rbw                           | [datenzar/asdf-rbw](https://github.com/datenzar/asdf-rbw/)                                                        |
 | Rclone                        | [johnlayton/asdf-rclone](https://github.com/johnlayton/asdf-rclone)                                               |
 | Rebar                         | [Stratus3D/asdf-rebar](https://github.com/Stratus3D/asdf-rebar)                                                   |
 | Reckoner                      | [FairwindsOps/asdf-reckoner](https://github.com/FairwindsOps/asdf-reckoner)                                       |
