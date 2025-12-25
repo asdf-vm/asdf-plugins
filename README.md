@@ -858,6 +858,7 @@ The `asdf` core provides a [security policy](https://github.com/asdf-vm/asdf/sec
 | Wren CLI                      | [jtakakura/asdf-wren-cli](https://github.com/jtakakura/asdf-wren-cli)                                             |
 | wrk                           | [ivanvc/asdf-wrk](https://github.com/ivanvc/asdf-wrk)                                                             |
 | Wtfutil                       | [NeoHsu/asdf-wtfutil](https://github.com/NeoHsu/asdf-wtfutil)                                                     |
+| wtp                           | [ouest/asdf-wtp](https://github.com/ouest/asdf-wtp)                                                               |
 | XCTestHTMLReport              | [younke/asdf-xchtmlreport](https://github.com/younke/asdf-xchtmlreport)                                           |
 | XcodeGen                      | [younke/asdf-xcodegen](https://github.com/younke/asdf-xcodegen)                                                   |
 | xc                            | [airtonix/asdf-xc](https://github.com/airtonix/asdf-xc)                                                           |
