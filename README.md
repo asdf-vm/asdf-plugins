@@ -724,7 +724,7 @@ The `asdf` core provides a [security policy](https://github.com/asdf-vm/asdf/sec
 | spacectl                      | [bodgit/asdf-spacectl](https://github.com/bodgit/asdf-spacectl)                                                   |
 | Spago                         | [jrrom/asdf-spago](https://github.com/jrrom/asdf-spago)                                                           |
 | Spark                         | [jeffryang24/asdf-spark](https://github.com/jeffryang24/asdf-spark)                                               |
-| Spectral                      | [vbyrd/asdf-spectral](https://github.com/vbyrd/asdf-spectral)                                                     |
+| Spectral                      | [jesmarla/asdf-spectral](https://github.com/jesmarla/asdf-spectral)                                                     |
 | Spin                          | [pavloos/asdf-spin](https://github.com/pavloos/asdf-spin)                                                         |
 | spotbugs                      | [jiahuili430/asdf-spotbugs](https://github.com/jiahuili430/asdf-spotbugs)                                         |
 | Spring Boot CLI               | [joschi/asdf-spring-boot](https://github.com/joschi/asdf-spring-boot)                                             |
