@@ -845,7 +845,6 @@ The `asdf` core provides a [security policy](https://github.com/asdf-vm/asdf/sec
 | Vim                           | [tsuyoshicho/asdf-vim](https://github.com/tsuyoshicho/asdf-vim)                                                   |
 | vlt                           | [asdf-community/asdf-hashicorp](https://github.com/asdf-community/asdf-hashicorp)                                 |
 | vultr-cli                     | [ikuradon/asdf-vultr-cli](https://github.com/ikuradon/asdf-vultr-cli)                                             |
-| watchexec                     | [nyrst/asdf-watchexec](https://github.com/nyrst/asdf-watchexec)                                                   |
 | WASI SDK                      | [coolreader18/asdf-wasi-sdk](https://github.com/coolreader18/asdf-wasi-sdk)                                       |
 | WASM-4                        | [jtakakura/asdf-wasm4](https://github.com/jtakakura/asdf-wasm4)                                                   |
 | wasm3                         | [tachyonicbytes/asdf-wasm3](https://github.com/tachyonicbytes/asdf-wasm3)                                         |
