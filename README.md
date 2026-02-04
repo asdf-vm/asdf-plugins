@@ -595,6 +595,7 @@ The `asdf` core provides a [security policy](https://github.com/asdf-vm/asdf/sec
 | opentofu                      | [virtualroot/asdf-opentofu](https://github.com/virtualroot/asdf-opentofu)                                         |
 | Operator SDK                  | [Medium/asdf-operator-sdk](https://github.com/Medium/asdf-operator-sdk)                                           |
 | Opsgenie-lamp                 | [ORCID/asdf-opsgenie-lamp](https://github.com/ORCID/asdf-opsgenie-lamp)                                           |
+| oxlint                        | [daikieng/asdf-oxlint](https://github.com/daikieng/asdf-oxlint)                                                   |
 | oras                          | [bodgit/asdf-oras](https://github.com/bodgit/asdf-oras)                                                           |
 | Osm                           | [nlamirault/asdf-osm](https://github.com/nlamirault/asdf-osm)                                                     |
 | osqueryi                      | [davidecavestro/asdf-osqueryi](https://github.com/davidecavestro/asdf-osqueryi)                                   |
