@@ -499,6 +499,7 @@ The `asdf` core provides a [security policy](https://github.com/asdf-vm/asdf/sec
 | lane                          | [CodeReaper/asdf-lane](https://github.com/CodeReaper/asdf-lane)                                                   |
 | launchpad                     | [surskitt/asdf-launchpad](https://github.com/surskitt/asdf-launchpad)                                             |
 | lazygit                       | [nklmilojevic/asdf-lazygit](https://github.com/nklmilojevic/asdf-lazygit)                                         |
+| lazydocker                    | [mfandrade/asdf-lazydocker](https://github.com/mfandrade/asdf-lazydocker)                                         |
 | Lean                          | [asdf-community/asdf-lean](https://github.com/asdf-community/asdf-lean)                                           |
 | Leiningen                     | [miorimmax/asdf-lein](https://github.com/miorimmax/asdf-lein)                                                     |
 | Lefthook                      | [jtzero/asdf-lefthook](https://github.com/jtzero/asdf-lefthook)                                                   |
