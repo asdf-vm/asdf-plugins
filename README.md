@@ -855,6 +855,7 @@ The `asdf` core provides a [security policy](https://github.com/asdf-vm/asdf/sec
 | weave-gitops                  | [deas/asdf-weave-gitops](https://github.com/deas/asdf-weave-gitops)                                               |
 | Websocat                      | [bdellegrazie/asdf-websocat](https://github.com/bdellegrazie/asdf-websocat)                                       |
 | woodpecker-cli                | [ivanvc/asdf-woodpecker](https://github.com/ivanvc/asdf-woodpecker)                                               |
+| workmux                       | [CoolCold/asdf-workmux](https://github.com/CoolCold/asdf-workmux)                                               |
 | Wren CLI                      | [jtakakura/asdf-wren-cli](https://github.com/jtakakura/asdf-wren-cli)                                             |
 | wrk                           | [ivanvc/asdf-wrk](https://github.com/ivanvc/asdf-wrk)                                                             |
 | Wtfutil                       | [NeoHsu/asdf-wtfutil](https://github.com/NeoHsu/asdf-wtfutil)                                                     |
