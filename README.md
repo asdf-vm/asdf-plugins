@@ -587,6 +587,7 @@ The `asdf` core provides a [security policy](https://github.com/asdf-vm/asdf/sec
 | Onyx                          | [jtakakura/asdf-onyx](https://github.com/jtakakura/asdf-onyx)                                                     |
 | OPA                           | [tochukwuvictor/asdf-opa](https://github.com/tochukwuvictor/asdf-opa)                                             |
 | Opam                          | [asdf-community/asdf-opam](https://github.com/asdf-community/asdf-opam)                                           |
+| opencode                      | [egose/asdf-opencode](https://github.com/egose/asdf-opencode)                                                     |
 | openfaas-faas-cli             | [zekker6/asdf-faas-cli](https://github.com/zekker6/asdf-faas-cli)                                                 |
 | OpenResty                     | [smashedtoatoms/asdf-openresty](https://github.com/smashedtoatoms/asdf-openresty)                                 |
 | opensearch                    | [randikabanura/asdf-opensearch](https://github.com/randikabanura/asdf-opensearch)                                 |
