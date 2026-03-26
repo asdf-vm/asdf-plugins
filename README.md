@@ -379,6 +379,7 @@ The `asdf` core provides a [security policy](https://github.com/asdf-vm/asdf/sec
 | Helm Diff                     | [dex4er/asdf-helm-diff](https://github.com/dex4er/asdf-helm-diff)                                                 |
 | helm-docs                     | [sudermanjr/asdf-helm-docs](https://github.com/sudermanjr/asdf-helm-docs)                                         |
 | Helmfile                      | [feniix/asdf-helmfile](https://github.com/feniix/asdf-helmfile)                                                   |
+| helm-ls                       | [mhagnumdw/asdf-helm-ls](https://github.com/mhagnumdw/asdf-helm-ls)                                               |
 | Helmsman                      | [luisdavim/asdf-helmsman](https://github.com/luisdavim/asdf-helmsman)                                             |
 | Hermes                        | [cometkim/asdf-hermes](https://github.com/cometkim/asdf-hermes)                                                   |
 | heroku-cli                    | [treilly94/asdf-heroku-cli](https://github.com/treilly94/asdf-heroku-cli)                                         |
