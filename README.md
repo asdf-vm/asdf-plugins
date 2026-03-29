@@ -121,6 +121,7 @@ The `asdf` core provides a [security policy](https://github.com/asdf-vm/asdf/sec
 | bingo                         | [isindir/asdf-bingo](https://github.com/isindir/asdf-bingo)                                                       |
 | binnacle                      | [Traackr/asdf-binnacle](https://github.com/Traackr/asdf-binnacle)                                                 |
 | Bitwarden                     | [vixus0/asdf-bitwarden](https://github.com/vixus0/asdf-bitwarden)                                                 |
+| bitwarden-desktop             | [HolyBitsLLC/asdf-bitwarden-desktop](https://github.com/HolyBitsLLC/asdf-bitwarden-desktop)                       |
 | bitwarden-secrets-manager     | [asdf-community/asdf-bitwarden-secrets-manager](https://github.com/asdf-community/asdf-bitwarden-secrets-manager) |
 | boilerplate                   | [gruntwork-io/asdf-boilerplate](https://github.com/gruntwork-io/asdf-boilerplate)                                 |
 | Bombardier                    | [NeoHsu/asdf-bombardier](https://github.com/NeoHsu/asdf-bombardier)                                               |
