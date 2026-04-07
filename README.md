@@ -265,6 +265,7 @@ The `asdf` core provides a [security policy](https://github.com/asdf-vm/asdf/sec
 | embulk                        | [yuokada/asdf-embulk](https://github.com/yuokada/asdf-embulk)                                                     |
 | Emscripten SDK                | [RobLoach/asdf-emsdk](https://github.com/RobLoach/asdf-emsdk)                                                     |
 | EnvCLI                        | [zekker6/asdf-envcli](https://github.com/zekker6/asdf-envcli)                                                     |
+| Entire                        | [wasabeef/asdf-entire](https://github.com/wasabeef/asdf-entire)                                                   |
 | envsubst                      | [dex4er/asdf-envsubst](https://github.com/dex4er/asdf-envsubst)                                                   |
 | Ephemeral Postgres            | [smashedtoatoms/asdf-ephemeral-postgres](https://github.com/smashedtoatoms/asdf-ephemeral-postgres)               |
 | Erlang                        | [asdf-vm/asdf-erlang](https://github.com/asdf-vm/asdf-erlang)                                                     |
