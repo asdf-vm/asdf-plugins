@@ -68,6 +68,7 @@ The `asdf` core provides a [security policy](https://github.com/asdf-vm/asdf/sec
 | Ambient                       | [jtakakura/asdf-ambient](https://github.com/jtakakura/asdf-ambient)                                               |
 | Ansible (ansible-base)        | [amrox/asdf-pyapp](https://github.com/amrox/asdf-pyapp)                                                           |
 | ant                           | [jackboespflug/asdf-ant](https://github.com/jackboespflug/asdf-ant)                                               |
+| apm                           | [edwinhern/asdf-apm](https://github.com/edwinhern/asdf-apm)                                                       |
 | Apache Jmeter                 | [comdotlinux/asdf-jmeter](https://github.com/comdotlinux/asdf-jmeter)                                             |
 | apko                          | [omissis/asdf-apko](https://github.com/omissis/asdf-apko)                                                         |
 | apollo-ios-cli                | [MacPaw/asdf-apollo-ios-cli](https://github.com/MacPaw/asdf-apollo-ios-cli)                                       |
