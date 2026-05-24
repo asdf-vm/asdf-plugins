@@ -710,6 +710,7 @@ The `asdf` core provides a [security policy](https://github.com/asdf-vm/asdf/sec
 | Sinker                        | [elementalvoid/asdf-sinker](https://github.com/elementalvoid/asdf-sinker)                                         |
 | Skaffold                      | [nklmilojevic/asdf-skaffold](https://github.com/nklmilojevic/asdf-skaffold)                                       |
 | skate                         | [chessmango/asdf-skate](https://github.com/chessmango/asdf-skate)                                                 |
+| skill-audit-mcp               | [eltociear/asdf-skill-audit-mcp](https://github.com/eltociear/asdf-skill-audit-mcp)                               |
 | Sloth                         | [slok/asdf-sloth](https://github.com/slok/asdf-sloth)                                                             |
 | smithy                        | [aws/asdf-smithy](https://github.com/aws/asdf-smithy)                                                             |
 | SML/NJ                        | [samontea/asdf-smlnj](https://github.com/samontea/asdf-smlnj)                                                     |
