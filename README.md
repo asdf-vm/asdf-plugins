@@ -800,6 +800,7 @@ The `asdf` core provides a [security policy](https://github.com/asdf-vm/asdf/sec
 | tfswitch                      | [iul1an/asdf-tfswitch](https://github.com/iul1an/asdf-tfswitch)                                                   |
 | tfupdate                      | [yuokada/asdf-tfupdate](https://github.com/yuokada/asdf-tfupdate)                                                 |
 | tf-summarize                  | [adamcrews/asdf-tf-summarize](https://github.com/adamcrews/asdf-tf-summarize)                                     |
+| Ticgit                        | [bosmak/asdf-ticgit](https://github.com/bosmak/asdf-ticgit)                                                       |
 | Thrift                        | [alisaifee/asdf-thrift](https://github.com/alisaifee/asdf-thrift)                                                 |
 | Tilt                          | [eaceaser/asdf-tilt](https://github.com/eaceaser/asdf-tilt)                                                       |
 | Timoni                        | [Smana/asdf-timoni](https://github.com/Smana/asdf-timoni)                                                         |
