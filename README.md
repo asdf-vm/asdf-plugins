@@ -627,6 +627,7 @@ The `asdf` core provides a [security policy](https://github.com/asdf-vm/asdf/sec
 | powerline-go                  | [dex4er/asdf-powerline-go](https://github.com/dex4er/asdf-powerline-go)                                           |
 | PowerShell                    | [daveneeley/asdf-powershell-core](https://github.com/daveneeley/asdf-powershell-core)                             |
 | pre-commit                    | [jonathanmorley/asdf-pre-commit](https://github.com/jonathanmorley/asdf-pre-commit)                               |
+| prek                          | [a4z/asdf-prek](https://github.com/a4z/asdf-prek)                                                                 |
 | process-compose               | [martino/asdf-process-compose](https://github.com/martino/asdf-process-compose)                                   |
 | promtool                      | [asdf-community/asdf-promtool](https://github.com/asdf-community/asdf-promtool)                                   |
 | protoc                        | [paxosglobal/asdf-protoc](https://github.com/paxosglobal/asdf-protoc)                                             |
