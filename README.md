@@ -574,6 +574,7 @@ The `asdf` core provides a [security policy](https://github.com/asdf-vm/asdf/sec
 | notation                      | [bodgit/asdf-notation](https://github.com/bodgit/asdf-notation)                                                   |
 | nova                          | [elementalvoid/asdf-nova](https://github.com/elementalvoid/asdf-nova)                                             |
 | NSC                           | [dex4er/asdf-nsc](https://github.com/dex4er/asdf-nsc)                                                             |
+| nub                           | [afonsojramos/asdf-nub](https://github.com/afonsojramos/asdf-nub)                                                 |
 | oapi-codegen                  | [dylanrayboss/asdf-oapi-codegen](https://github.com/dylanrayboss/asdf-oapi-codegen)                               |
 | oc                            | [sqtran/asdf-oc](https://github.com/sqtran/asdf-oc)                                                               |
 | oci                           | [yasn77/asdf-oci](https://github.com/yasn77/asdf-oci)                                                             |
