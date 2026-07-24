@@ -832,6 +832,7 @@ The `asdf` core provides a [security policy](https://github.com/asdf-vm/asdf/sec
 | V                             | [jthegedus/asdf-v](https://github.com/jthegedus/asdf-v)                                                           |
 | vale                          | [pdemagny/asdf-vale](https://github.com/pdemagny/asdf-vale)                                                       |
 | vals                          | [dex4er/asdf-vals](https://github.com/dex4er/asdf-vals)                                                           |
+| varlock                       | [rafaelassumpcao/asdf-varlock](https://github.com/rafaelassumpcao/asdf-varlock)                                   |
 | Vault                         | [asdf-community/asdf-hashicorp](https://github.com/asdf-community/asdf-hashicorp)                                 |
 | Velero                        | [looztra/asdf-velero](https://github.com/looztra/asdf-velero)                                                     |
 | vendir                        | [vmware-tanzu/asdf-carvel](https://github.com/vmware-tanzu/asdf-carvel)                                           |
