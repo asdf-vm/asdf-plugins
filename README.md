@@ -404,6 +404,7 @@ The `asdf` core provides a [security policy](https://github.com/asdf-vm/asdf/sec
 | imgpkg                        | [vmware-tanzu/asdf-carvel](https://github.com/vmware-tanzu/asdf-carvel)                                           |
 | Infracost                     | [dex4er/asdf-infracost](https://github.com/dex4er/asdf-infracost)                                                 |
 | Inlets                        | [nlamirault/asdf-inlets](https://github.com/nlamirault/asdf-inlets)                                               |
+| infisical                     | [gustavorps/asdf-infisical](https://github.com/gustavorps/asdf-infisical)                                         |
 | Io                            | [mracos/asdf-io](https://github.com/mracos/asdf-io)                                                               |
 | Istioctl                      | [virtualstaticvoid/asdf-istioctl](https://github.com/virtualstaticvoid/asdf-istioctl)                             |
 | Janet                         | [Jakski/asdf-janet](https://github.com/Jakski/asdf-janet)                                                         |
