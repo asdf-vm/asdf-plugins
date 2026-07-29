@@ -292,7 +292,6 @@ The `asdf` core provides a [security policy](https://github.com/asdf-vm/asdf/sec
 | Flux2                         | [tablexi/asdf-flux2](https://github.com/tablexi/asdf-flux2)                                                       |
 | Fluxctl                       | [stefansedich/asdf-fluxctl](https://github.com/stefansedich/asdf-fluxctl)                                         |
 | fly                           | [vmware-tanzu/tanzu-plug-in-for-asdf](https://github.com/vmware-tanzu/tanzu-plug-in-for-asdf)                     |
-| flyctl                        | [chessmango/asdf-flyctl](https://github.com/chessmango/asdf-flyctl)                                               |
 | flyway                        | [junminahn/asdf-flyway](https://github.com/junminahn/asdf-flyway)                                                 |
 | frankenphp                    | [theutz/asdf-frankenphp](https://github.com/theutz/asdf-frankenphp)                                               |
 | func-e                        | [carnei-ro/asdf-func-e](https://github.com/carnei-ro/asdf-func-e)                                                 |
@@ -879,7 +878,6 @@ The `asdf` core provides a [security policy](https://github.com/asdf-vm/asdf/sec
 | yt-dlp                        | [duhow/asdf-yt-dlp](https://github.com/duhow/asdf-yt-dlp)                                                         |
 | ytt                           | [vmware-tanzu/asdf-carvel](https://github.com/vmware-tanzu/asdf-carvel)                                           |
 | zbctl                         | [camunda-community-hub/asdf-zbctl](https://github.com/camunda-community-hub/asdf-zbctl)                           |
-| zellij                        | [chessmango/asdf-zellij](https://github.com/chessmango/asdf-zellij)                                               |
 | Zephyr                        | [nsaunders/asdf-zephyr](https://github.com/nsaunders/asdf-zephyr)                                                 |
 | Zig                           | [cheetah/asdf-zig](https://github.com/cheetah/asdf-zig)                                                           |
 | zigmod                        | [mise-plugins/asdf-zigmod](https://github.com/mise-plugins/asdf-zigmod)                                           |
