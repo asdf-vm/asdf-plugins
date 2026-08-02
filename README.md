@@ -308,6 +308,7 @@ The `asdf` core provides a [security policy](https://github.com/asdf-vm/asdf/sec
 | gcc-arm-none-eabi              | [dlech/asdf-gcc-arm-none-eabi](https://github.com/dlech/asdf-gcc-arm-none-eabi)                                   |
 | gcloud                         | [jthegedus/asdf-gcloud](https://github.com/jthegedus/asdf-gcloud)                                                 |
 | getenvoy                       | [asdf-community/asdf-getenvoy](https://github.com/asdf-community/asdf-getenvoy)                                   |
+| gha-doctor                     | [linnea-bakshi/asdf-gha-doctor](https://github.com/linnea-bakshi/asdf-gha-doctor)                                 |
 | GHC                            | [sestrella/asdf-ghcup](https://github.com/sestrella/asdf-ghcup)                                                   |
 | ghidra                         | [Honeypot95/asdf-ghidra](https://github.com/Honeypot95/asdf-ghidra)                                               |
 | ghorg                          | [gbloquel/asdf-ghorg](https://github.com/gbloquel/asdf-ghorg)                                                     |
