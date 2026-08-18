@@ -599,6 +599,7 @@ The `asdf` core provides a [security policy](https://github.com/asdf-vm/asdf/sec
 | oras                           | [bodgit/asdf-oras](https://github.com/bodgit/asdf-oras)                                                           |
 | Osm                            | [nlamirault/asdf-osm](https://github.com/nlamirault/asdf-osm)                                                     |
 | osqueryi                       | [davidecavestro/asdf-osqueryi](https://github.com/davidecavestro/asdf-osqueryi)                                   |
+| OutageDeck                     | [outagedeck/asdf-outagedeck](https://github.com/outagedeck/asdf-outagedeck)                                       |
 | pachctl                        | [abatilo/asdf-pachctl](https://github.com/abatilo/asdf-pachctl)                                                   |
 | Packer                         | [asdf-community/asdf-hashicorp](https://github.com/asdf-community/asdf-hashicorp)                                 |
 | Pandoc                         | [Fbrisset/asdf-pandoc](https://github.com/Fbrisset/asdf-pandoc)                                                   |
