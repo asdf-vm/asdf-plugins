@@ -383,6 +383,7 @@ The `asdf` core provides a [security policy](https://github.com/asdf-vm/asdf/sec
 | Helmsman                       | [luisdavim/asdf-helmsman](https://github.com/luisdavim/asdf-helmsman)                                             |
 | Hermes                         | [cometkim/asdf-hermes](https://github.com/cometkim/asdf-hermes)                                                   |
 | heroku-cli                     | [treilly94/asdf-heroku-cli](https://github.com/treilly94/asdf-heroku-cli)                                         |
+| herdr                          | [chrisjohnson/asdf-herdr](https://github.com/chrisjohnson/asdf-herdr)                                                   |
 | hey                            | [raimon49/asdf-hey](https://github.com/raimon49/asdf-hey)                                                         |
 | hishtory                       | [asdf-community/asdf-hishtory](https://github.com/asdf-community/asdf-hishtory)                                   |
 | hledger                        | [airtonix/hledger](https://github.com/airtonix/asdf-hledger)                                                      |
