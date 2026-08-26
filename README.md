@@ -54,6 +54,7 @@ The `asdf` core provides a [security policy](https://github.com/asdf-vm/asdf/sec
 | actionlint                     | [crazy-matt/asdf-actionlint](https://github.com/crazy-matt/asdf-actionlint)                                       |
 | adr-tools                      | [td7x/asdf/adr-tools](https://gitlab.com/td7x/asdf/adr-tools)                                                     |
 | ag (the_silver_searcher)       | [koketani/asdf-ag](https://github.com/koketani/asdf-ag)                                                           |
+| agg                            | [ashikov/asdf-agg](https://github.com/ashikov/asdf-agg)                                                           |
 | age                            | [threkk/asdf-age](https://github.com/threkk/asdf-age)                                                             |
 | age-plugin-yubikey             | [str4d/asdf-age-plugin-yubikey](https://github.com/str4d/asdf-age-plugin-yubikey)                                 |
 | agebox                         | [slok/asdf-agebox](https://github.com/slok/asdf-agebox)                                                           |
