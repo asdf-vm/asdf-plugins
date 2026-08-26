@@ -80,6 +80,7 @@ The `asdf` core provides a [security policy](https://github.com/asdf-vm/asdf/sec
 | argocd-image-updater           | [thatmlopsguy/asdf-argocd-image-updater](https://github.com/thatmlopsguy/asdf-argocd-image-updater)               |
 | aria2                          | [asdf-community/asdf-aria2](https://github.com/asdf-community/asdf-aria2)                                         |
 | asciidoctorj                   | [gliwka/asdf-asciidoctorj](https://github.com/gliwka/asdf-asciidoctorj)                                           |
+| asciinema                      | [ashikov/asdf-asciinema](https://github.com/ashikov/asdf-asciinema)                                               |
 | asdf-plugin-manager            | [asdf-community/asdf-plugin-manager](https://github.com/asdf-community/asdf-plugin-manager)                       |
 | assh                           | [zekker6/asdf-assh](https://github.com/zekker6/asdf-assh)                                                         |
 | atlas                          | [pbr0ck3r/asdf-atlas](https://github.com/pbr0ck3r/asdf-atlas)                                                     |
