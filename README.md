@@ -402,6 +402,7 @@ The `asdf` core provides a [security policy](https://github.com/asdf-vm/asdf/sec
 | Idris                          | [asdf-community/asdf-idris](https://github.com/asdf-community/asdf-idris)                                         |
 | Idris2                         | [asdf-community/asdf-idris2](https://github.com/asdf-community/asdf-idris2)                                       |
 | ImageMagick                    | [mangalakader/asdf-imagemagick](https://github.com/mangalakader/asdf-imagemagick)                                 |
+| ImageMagick6                   | [fabienpiette/asdf-imagemagick6](https://github.com/fabienpiette/asdf-imagemagick6)                               |
 | imgpkg                         | [vmware-tanzu/asdf-carvel](https://github.com/vmware-tanzu/asdf-carvel)                                           |
 | Infracost                      | [dex4er/asdf-infracost](https://github.com/dex4er/asdf-infracost)                                                 |
 | Inlets                         | [nlamirault/asdf-inlets](https://github.com/nlamirault/asdf-inlets)                                               |
