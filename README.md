@@ -255,6 +255,7 @@ The `asdf` core provides a [security policy](https://github.com/asdf-vm/asdf/sec
 | earthly                        | [YR-ZR0/asdf-earthly](https://github.com/YR-ZR0/asdf-earthly)                                                     |
 | ecspresso                      | [kayac/asdf-ecspresso](https://github.com/kayac/asdf-ecspresso)                                                   |
 | editorconfig-checker           | [gabitchov/asdf-editorconfig-checker](https://github.com/gabitchov/asdf-editorconfig-checker)                     |
+| Educates                       | [salemgolemugoo/asdf-educates](https://github.com/salemgolemugoo/asdf-educates)                                   |
 | ejson                          | [cipherstash/asdf-ejson](https://github.com/cipherstash/asdf-ejson)                                               |
 | eksctl                         | [elementalvoid/asdf-eksctl](https://github.com/elementalvoid/asdf-eksctl)                                         |
 | eks-node-viewer                | [haad/asdf-eks-node-viewer](https://github.com/haad/asdf-eks-node-viewer)                                         |
