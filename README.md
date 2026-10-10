@@ -678,6 +678,7 @@ The `asdf` core provides a [security policy](https://github.com/asdf-vm/asdf/sec
 | rlwrap                         | [asdf-community/asdf-rlwrap](https://github.com/asdf-community/asdf-rlwrap)                                       |
 | Ruby                           | [asdf-vm/asdf-ruby](https://github.com/asdf-vm/asdf-ruby)                                                         |
 | ruff                           | [simhem/asdf-ruff](https://github.com/simhem/asdf-ruff)                                                           |
+| runx                           | [runxhq/asdf-runx](https://github.com/runxhq/asdf-runx)                                                           |
 | Rust                           | [code-lever/asdf-rust](https://github.com/code-lever/asdf-rust)                                                   |
 | rust-analyzer                  | [Xyven1/asdf-rust-analyzer](https://github.com/Xyven1/asdf-rust-analyzer)                                         |
 | rustic                         | [jahands/asdf-rustic](https://github.com/jahands/asdf-rustic)                                                     |
