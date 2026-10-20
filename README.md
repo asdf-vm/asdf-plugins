@@ -47,6 +47,7 @@ The `asdf` core provides a [security policy](https://github.com/asdf-vm/asdf/sec
 | :----------------------------- | :---------------------------------------------------------------------------------------------------------------- |
 | .Net                           | [hensou/asdf-dotnet](https://github.com/hensou/asdf-dotnet)                                                       |
 | .Net Core                      | [emersonsoares/asdf-dotnet-core](https://github.com/emersonsoares/asdf-dotnet-core)                               |
+| .NET SDK                       | [gmejial/asdf-dotnet-sdk](https://github.com/gmejial/asdf-dotnet-sdk)                                             |
 | 1password-cli                  | [NeoHsu/asdf-1password-cli](https://github.com/NeoHsu/asdf-1password-cli)                                         |
 | AAPT2                          | [ronnnnn/asdf-aapt2](https://github.com/ronnnnn/asdf-aapt2)                                                       |
 | act                            | [gr1m0h/asdf-act](https://github.com/gr1m0h/asdf-act)                                                             |
