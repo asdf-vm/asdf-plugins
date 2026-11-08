@@ -608,6 +608,7 @@ The `asdf` core provides a [security policy](https://github.com/asdf-vm/asdf/sec
 | pdm                            | [1oglop1/asdf-pdm](https://github.com/1oglop1/asdf-pdm)                                                           |
 | Perl                           | [ouest/asdf-perl](https://github.com/ouest/asdf-perl)                                                             |
 | PHP                            | [asdf-community/asdf-php](https://github.com/asdf-community/asdf-php)                                             |
+| PHP (prebuilt)                 | [x-rush/asdf-php](https://github.com/x-rush/asdf-php)                                                             |
 | Phrase                         | [bitfrost/asdf-phrase](https://github.com/bitfrost/asdf-phrase)                                                   |
 | pint                           | [sam-burrell/asdf-pint](https://github.com/sam-burrell/asdf-pint)                                                 |
 | pipectl                        | [pipe-cd/asdf-pipectl](https://github.com/pipe-cd/asdf-pipectl)                                                   |
