@@ -674,6 +674,7 @@ The `asdf` core provides a [security policy](https://github.com/asdf-vm/asdf/sec
 | RKE                            | [particledecay/asdf-rke](https://github.com/particledecay/asdf-rke)                                               |
 | rlwrap                         | [asdf-community/asdf-rlwrap](https://github.com/asdf-community/asdf-rlwrap)                                       |
 | rome                           | [kichiemon/asdf-rome](https://github.com/kichiemon/asdf-rome)                                                     |
+| Roswell                        | [troydm/asdf-roswell](https://github.com/troydm/asdf-roswell)                                                     |
 | rstash                         | [carlduevel/asdf-rstash](https://github.com/carlduevel/asdf-rstash)                                               |
 | Ruby                           | [asdf-vm/asdf-ruby](https://github.com/asdf-vm/asdf-ruby)                                                         |
 | ruff                           | [simhem/asdf-ruff](https://github.com/simhem/asdf-ruff)                                                           |
