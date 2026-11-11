@@ -816,6 +816,7 @@ The `asdf` core provides a [security policy](https://github.com/asdf-vm/asdf/sec
 | tree-sitter                    | [ivanvc/asdf-tree-sitter](https://github.com/ivanvc/asdf-tree-sitter)                                             |
 | tridentctl                     | [asdf-community/asdf-tridentctl](https://github.com/asdf-community/asdf-tridentctl)                               |
 | Trivy                          | [zufardhiyaulhaq/asdf-trivy](https://github.com/zufardhiyaulhaq/asdf-trivy)                                       |
+| tsc-rs                         | [Brandon-Gottshall/asdf-tsc-rs](https://github.com/Brandon-Gottshall/asdf-tsc-rs)                                 |
 | tsuru                          | [virtualstaticvoid/asdf-tsuru](https://github.com/virtualstaticvoid/asdf-tsuru)                                   |
 | tttyd                          | [ivanvc/asdf-ttyd](https://github.com/ivanvc/asdf-ttyd)                                                           |
 | tuist                          | [asdf-community/asdf-tuist](https://github.com/asdf-community/asdf-tuist)                                         |
