@@ -347,7 +347,7 @@ The `asdf` core provides a [security policy](https://github.com/asdf-vm/asdf/sec
 | go-sdk                         | [yacchi/asdf-go-sdk](https://github.com/yacchi/asdf-go-sdk)                                                       |
 | Goss                           | [raimon49/asdf-goss](https://github.com/raimon49/asdf-goss)                                                       |
 | go-swagger                     | [jfreeland/asdf-go-swagger](https://github.com/jfreeland/asdf-go-swagger)                                         |
-| GraalVM                        | [asdf-community/asdf-graalvm](https://github.com/asdf-community/asdf-graalvm)                                     |
+| GraalVM                        | [ririnto/asdf-graalvm](https://github.com/ririnto/asdf-graalvm)                                                   |
 | Gradle Profiler                | [joschi/asdf-gradle-profiler](https://github.com/joschi/asdf-gradle-profiler)                                     |
 | Gradle                         | [rfrancis/asdf-gradle](https://github.com/rfrancis/asdf-gradle)                                                   |
 | Grails                         | [weibemoura/asdf-grails](https://github.com/weibemoura/asdf-grails)                                               |
